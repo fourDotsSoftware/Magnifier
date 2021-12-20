@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magnifier", "Magnifier\Magnifier.csproj", "{61B1CC2A-AA69-4386-9E41-FB6E8197F2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B1CC2A-AA69-4386-9E41-FB6E8197F2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B1CC2A-AA69-4386-9E41-FB6E8197F2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B1CC2A-AA69-4386-9E41-FB6E8197F2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B1CC2A-AA69-4386-9E41-FB6E8197F2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

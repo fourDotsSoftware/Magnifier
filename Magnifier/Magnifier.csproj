@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61B1CC2A-AA69-4386-9E41-FB6E8197F2A3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Magnifier</RootNamespace>
+    <AssemblyName>Magnifier</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>magnifier-48.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CaptureScreen.cs" />
+    <Compile Include="CustomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomForm.designer.cs">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExceptionHandlersHelper.cs" />
+    <Compile Include="frmLanguage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLanguage.designer.cs">
+      <DependentUpon>frmLanguage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDownloadUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDownloadUpdate.designer.cs">
+      <DependentUpon>frmDownloadUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectArea.designer.cs">
+      <DependentUpon>frmSelectArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStart.Designer.cs">
+      <DependentUpon>frmStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDIStuff.cs" />
+    <Compile Include="ImageComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="InterceptKeys.cs" />
+    <Compile Include="InterceptMouse.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="NiceLine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResFlags.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResFlags.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ResTranslate.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResTranslate.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TranslateHelper.cs" />
+    <Compile Include="ucTextProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ucTextProgressBar.designer.cs">
+      <DependentUpon>ucTextProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateHelper.cs" />
+    <Compile Include="URLLinkLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Win32Stuff.cs" />
+    <EmbeddedResource Include="CustomForm.resx">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDownloadUpdate.resx">
+      <DependentUpon>frmDownloadUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLanguage.resx">
+      <DependentUpon>frmLanguage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectArea.resx">
+      <DependentUpon>frmSelectArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStart.resx">
+      <DependentUpon>frmStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ResFlags.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResFlags.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResTranslate.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResTranslate.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTextProgressBar.resx">
+      <DependentUpon>ucTextProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4dots_logo_official.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4dots_logo_official_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_down_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_up_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_ball_glass_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_ball_glass_blue_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_ball_glass_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_ball_glass_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_ball_glass_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart-icon-b-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_into.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_preferences.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook-24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook-32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\googleplus-24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linkedin-24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navigate_beginning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navigate_end.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preferences.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter-24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter-32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="magnifier-48.ico" />
+    <None Include="Resources\flag_vietnam.png" />
+    <None Include="Resources\flag_ukraine.png" />
+    <None Include="Resources\flag_turkey.png" />
+    <None Include="Resources\flag_thailand.png" />
+    <None Include="Resources\flag_taiwan.png" />
+    <None Include="Resources\flag_sweden.png" />
+    <None Include="Resources\flag_spain.png" />
+    <None Include="Resources\flag_south_korea.png" />
+    <None Include="Resources\flag_south_africa.png" />
+    <None Include="Resources\flag_slovenia.png" />
+    <None Include="Resources\flag_slovakia.png" />
+    <None Include="Resources\flag_serbia_montenegro.png" />
+    <None Include="Resources\flag_saudi_arabia.png" />
+    <None Include="Resources\flag_russia.png" />
+    <None Include="Resources\flag_romania.png" />
+    <None Include="Resources\flag_portugal.png" />
+    <None Include="Resources\flag_poland.png" />
+    <None Include="Resources\flag_philippines.png" />
+    <None Include="Resources\flag_pakistan.png" />
+    <None Include="Resources\flag_norway.png" />
+    <None Include="Resources\flag_netherlands.png" />
+    <None Include="Resources\flag_lithuania.png" />
+    <None Include="Resources\flag_latvia.png" />
+    <None Include="Resources\flag_kenya.png" />
+    <None Include="Resources\flag_japan.png" />
+    <None Include="Resources\flag_italy.png" />
+    <None Include="Resources\flag_israel.png" />
+    <None Include="Resources\flag_ireland.png" />
+    <None Include="Resources\flag_iran.png" />
+    <None Include="Resources\flag_indonesia.png" />
+    <None Include="Resources\flag_india.png" />
+    <None Include="Resources\flag_iceland.png" />
+    <None Include="Resources\flag_hungary.png" />
+    <None Include="Resources\flag_greece.png" />
+    <None Include="Resources\flag_great_britain.png" />
+    <None Include="Resources\flag_germany.png" />
+    <None Include="Resources\flag_georgia.png" />
+    <None Include="Resources\flag_france.png" />
+    <None Include="Resources\flag_finland.png" />
+    <None Include="Resources\flag_estonia.png" />
+    <None Include="Resources\flag_denmark.png" />
+    <None Include="Resources\flag_czech_republic.png" />
+    <None Include="Resources\flag_croatia.png" />
+    <None Include="Resources\flag_china.png" />
+    <None Include="Resources\flag_bulgaria.png" />
+    <None Include="Resources\flag_belarus.png" />
+    <None Include="Resources\flag_albania.png" />
+    <None Include="Resources\magnifier-48.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

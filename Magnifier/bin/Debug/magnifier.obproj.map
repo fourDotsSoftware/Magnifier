@@ -1,0 +1,1248 @@
+﻿<Mappings><Entry OldName="Magnifier.CaptureScreen.LastCursor" NewName="A.cbddd19a165a310f54b7344005cee4748.c330c23ad5680219c47e01b0470cbacf5" />
+<Entry OldName="Magnifier.CaptureScreen.CURSOR_SHOWING" NewName="A.cbddd19a165a310f54b7344005cee4748.c44ac9f79e19ec73cd3371a1b19023e8e" />
+<Entry OldName="Magnifier.CaptureScreen.DI_NORMAL" NewName="A.cbddd19a165a310f54b7344005cee4748.c67e854f002c50ce70d1527a5a1010faf" />
+<Entry OldName="Magnifier.CustomForm.components" NewName="Magnifier.CustomForm.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.frmLanguage.components" NewName="Magnifier.frmLanguage.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.frmLanguage.label1" NewName="Magnifier.frmLanguage.c83dd9f8f8c1ba39a92c09b59026d9edb" />
+<Entry OldName="Magnifier.frmLanguage.cmbLanguage" NewName="Magnifier.frmLanguage.c3a1ddd78e80a44d27ffc1c2aaf42d4a3" />
+<Entry OldName="Magnifier.frmLanguage.btnOK" NewName="Magnifier.frmLanguage.c9fb0a840ff8ff28f377abd084a8bf63d" />
+<Entry OldName="Magnifier.frmMain.rect1" NewName="Magnifier.frmMain.cfcb8839ec726fa12557d410160baee4d" />
+<Entry OldName="Magnifier.frmMain.rect2" NewName="Magnifier.frmMain.c26e14c55011abd607b93cea0a27b0ede" />
+<Entry OldName="Magnifier.frmMain.rect3" NewName="Magnifier.frmMain.c91d8250689f551ad97bfb0d270e48c35" />
+<Entry OldName="Magnifier.frmMain.rect4" NewName="Magnifier.frmMain.c963178fb864eb9e3a2c0b5f24a25ffcd" />
+<Entry OldName="Magnifier.frmMain.rect5" NewName="Magnifier.frmMain.ca568f1b31e006630895a07d8a49709eb" />
+<Entry OldName="Magnifier.frmMain.rect6" NewName="Magnifier.frmMain.c49402f6bea143e634037545038a42c34" />
+<Entry OldName="Magnifier.frmMain.rect7" NewName="Magnifier.frmMain.c55ba80123fbcd1874393b665bc801861" />
+<Entry OldName="Magnifier.frmMain.rect8" NewName="Magnifier.frmMain.c83c14771d53503eec6733a6d4275f5bf" />
+<Entry OldName="Magnifier.frmMain.PreviousX" NewName="Magnifier.frmMain.c9e62922638884640c88234aef1abcfae" />
+<Entry OldName="Magnifier.frmMain.PreviousY" NewName="Magnifier.frmMain.c8809f65739c3b81695075beb3711e8a6" />
+<Entry OldName="Magnifier.frmMain.PickStyle" NewName="Magnifier.frmMain.c87b243b5bc0c1693f249623ad2b73ab2" />
+<Entry OldName="Magnifier.frmMain.IsMouseDown" NewName="Magnifier.frmMain.cb9594c320de35039f0b6e38a3c2050fd" />
+<Entry OldName="Magnifier.frmMain.InMouseMove" NewName="Magnifier.frmMain.cf694b493d10872702f8981d0cdbaf3dc" />
+<Entry OldName="Magnifier.frmMain.MouseDownX" NewName="Magnifier.frmMain.c81b55e68f8d87fe921f00de65e73f029" />
+<Entry OldName="Magnifier.frmMain.MouseDownY" NewName="Magnifier.frmMain.c358dd02a103d8f721f34ab98d68e3319" />
+<Entry OldName="Magnifier.frmMain.HandleSize" NewName="Magnifier.frmMain.cb5ea71e63a92cc9bd17a00a74ace4c7b" />
+<Entry OldName="Magnifier.frmMain.f2Width" NewName="Magnifier.frmMain.cb66f8315aee0fe19b93c10c16b6e261c" />
+<Entry OldName="Magnifier.frmMain.f2Height" NewName="Magnifier.frmMain.cddb35aa74c82658361d1b129df4881c6" />
+<Entry OldName="Magnifier.frmMain.f2Left" NewName="Magnifier.frmMain.cb1de19606eb3fe6f238b8490fcb7bb2d" />
+<Entry OldName="Magnifier.frmMain.f2Top" NewName="Magnifier.frmMain.cd19e6e75465a55bf92fbff6bad9367a9" />
+<Entry OldName="Magnifier.frmMain.sbCircle" NewName="Magnifier.frmMain.cb7bb3da89da4471bdb4352ae4bdc2ff8" />
+<Entry OldName="Magnifier.frmMain.sbCircleColor" NewName="Magnifier.frmMain.cd7386072bbbcf6d8024c3cbd2f5f8949" />
+<Entry OldName="Magnifier.frmMain.cursorImage" NewName="Magnifier.frmMain.c37ea002517b19ede91b9ca976cc38376" />
+<Entry OldName="Magnifier.frmMain.Test" NewName="Magnifier.frmMain.c0116fdba5defe1be1c0a8fdedbf6de06" />
+<Entry OldName="Magnifier.frmMain.components" NewName="Magnifier.frmMain.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.frmMain.timMagnify" NewName="Magnifier.frmMain.c07177844039efe449a814ccef30fe614" />
+<Entry OldName="Magnifier.frmAbout.components" NewName="Magnifier.frmAbout.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.frmAbout.lblAbout" NewName="Magnifier.frmAbout.c10cdd5f7717470ecb15c27e43dd499a6" />
+<Entry OldName="Magnifier.frmAbout.btnClose" NewName="Magnifier.frmAbout.c0140910f4245fdb523973b14f4eb138e" />
+<Entry OldName="Magnifier.frmAbout.pictureBox1" NewName="Magnifier.frmAbout.c3bcc9372a267b1a2ee4831a9418461f3" />
+<Entry OldName="Magnifier.frmAbout.linkLabel1" NewName="Magnifier.frmAbout.c178cf338b584bb01767a87d5e8339969" />
+<Entry OldName="Magnifier.frmAbout.label1" NewName="Magnifier.frmAbout.c83dd9f8f8c1ba39a92c09b59026d9edb" />
+<Entry OldName="Magnifier.frmAbout.label2" NewName="Magnifier.frmAbout.c5c76b819178f9ce248d55a717e20d779" />
+<Entry OldName="Magnifier.frmAbout.linkLabel2" NewName="Magnifier.frmAbout.c200b871e277fbf2c43bc384cb3c353fd" />
+<Entry OldName="Magnifier.frmAbout.niceLine1" NewName="Magnifier.frmAbout.cd6cf47b318b4193b4c0822425dac0d32" />
+<Entry OldName="Magnifier.frmAbout.niceLine3" NewName="Magnifier.frmAbout.cd558deab11841f6f4bd7b27ca5b5d3af" />
+<Entry OldName="Magnifier.frmAbout.label3" NewName="Magnifier.frmAbout.c37a20f8456140c64c61116f11568d31b" />
+<Entry OldName="Magnifier.frmAbout.ullProductWebpage" NewName="Magnifier.frmAbout.c4bbbd3ad98730b31c9aa12609be4f983" />
+<Entry OldName="Magnifier.frmAbout.lblRegistered" NewName="Magnifier.frmAbout.cd3eb4b9079bdec308313333cc9350b19" />
+<Entry OldName="Magnifier.frmAbout.niceLine2" NewName="Magnifier.frmAbout.ce03d1d33257acb94d501fba9b9408e6b" />
+<Entry OldName="Magnifier.frmAbout.niceLine4" NewName="Magnifier.frmAbout.cb500a739238fc0ed884c0f8eecd57ad5" />
+<Entry OldName="Magnifier.frmDownloadUpdate._DownloadFile" NewName="Magnifier.frmDownloadUpdate.c74a9074910bdfc2d56141155bce3d1ce" />
+<Entry OldName="Magnifier.frmDownloadUpdate.components" NewName="Magnifier.frmDownloadUpdate.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.frmDownloadUpdate.pgBar" NewName="Magnifier.frmDownloadUpdate.cc1ad7b14a74deab4c78b778b0785115a" />
+<Entry OldName="Magnifier.frmDownloadUpdate.btnCancelDownload" NewName="Magnifier.frmDownloadUpdate.c25c44a146547c80ac0fbe2852915b4a6" />
+<Entry OldName="Magnifier.frmDownloadUpdate.bwDownload" NewName="Magnifier.frmDownloadUpdate.c78139e4d6ee31f7c48f45313b1c9b6f1" />
+<Entry OldName="Magnifier.frmDownloadUpdate.label1" NewName="Magnifier.frmDownloadUpdate.c83dd9f8f8c1ba39a92c09b59026d9edb" />
+<Entry OldName="Magnifier.frmDownloadUpdate.lblTotalSize" NewName="Magnifier.frmDownloadUpdate.c791b285d0f752f61acaa74b0961dcd39" />
+<Entry OldName="Magnifier.frmSelectArea.rect1" NewName="Magnifier.frmSelectArea.cfcb8839ec726fa12557d410160baee4d" />
+<Entry OldName="Magnifier.frmSelectArea.rect2" NewName="Magnifier.frmSelectArea.c26e14c55011abd607b93cea0a27b0ede" />
+<Entry OldName="Magnifier.frmSelectArea.rect3" NewName="Magnifier.frmSelectArea.c91d8250689f551ad97bfb0d270e48c35" />
+<Entry OldName="Magnifier.frmSelectArea.rect4" NewName="Magnifier.frmSelectArea.c963178fb864eb9e3a2c0b5f24a25ffcd" />
+<Entry OldName="Magnifier.frmSelectArea.rect5" NewName="Magnifier.frmSelectArea.ca568f1b31e006630895a07d8a49709eb" />
+<Entry OldName="Magnifier.frmSelectArea.rect6" NewName="Magnifier.frmSelectArea.c49402f6bea143e634037545038a42c34" />
+<Entry OldName="Magnifier.frmSelectArea.rect7" NewName="Magnifier.frmSelectArea.c55ba80123fbcd1874393b665bc801861" />
+<Entry OldName="Magnifier.frmSelectArea.rect8" NewName="Magnifier.frmSelectArea.c83c14771d53503eec6733a6d4275f5bf" />
+<Entry OldName="Magnifier.frmSelectArea.rect9" NewName="Magnifier.frmSelectArea.c0ae08c2bc399a8697a365a105150db1c" />
+<Entry OldName="Magnifier.frmSelectArea.rect10" NewName="Magnifier.frmSelectArea.cf9a3eacfbbfeda4fd5563aa8f2ce77d9" />
+<Entry OldName="Magnifier.frmSelectArea.rect11" NewName="Magnifier.frmSelectArea.cd73520b57f5db15f0bc25a7f24beceae" />
+<Entry OldName="Magnifier.frmSelectArea.rect12" NewName="Magnifier.frmSelectArea.ca8935bc237eb5627a3cc0b7ddcc34c9c" />
+<Entry OldName="Magnifier.frmSelectArea.PreviousX" NewName="Magnifier.frmSelectArea.c9e62922638884640c88234aef1abcfae" />
+<Entry OldName="Magnifier.frmSelectArea.PreviousY" NewName="Magnifier.frmSelectArea.c8809f65739c3b81695075beb3711e8a6" />
+<Entry OldName="Magnifier.frmSelectArea.PickStyle" NewName="Magnifier.frmSelectArea.c87b243b5bc0c1693f249623ad2b73ab2" />
+<Entry OldName="Magnifier.frmSelectArea.IsMouseDown" NewName="Magnifier.frmSelectArea.cb9594c320de35039f0b6e38a3c2050fd" />
+<Entry OldName="Magnifier.frmSelectArea.InMouseMove" NewName="Magnifier.frmSelectArea.cf694b493d10872702f8981d0cdbaf3dc" />
+<Entry OldName="Magnifier.frmSelectArea.MouseDownX" NewName="Magnifier.frmSelectArea.c81b55e68f8d87fe921f00de65e73f029" />
+<Entry OldName="Magnifier.frmSelectArea.MouseDownY" NewName="Magnifier.frmSelectArea.c358dd02a103d8f721f34ab98d68e3319" />
+<Entry OldName="Magnifier.frmSelectArea.HandleSize" NewName="Magnifier.frmSelectArea.cb5ea71e63a92cc9bd17a00a74ace4c7b" />
+<Entry OldName="Magnifier.frmSelectArea.fWidth" NewName="Magnifier.frmSelectArea.c4ced5b29a45b0ecb1b2ec92224ee7296" />
+<Entry OldName="Magnifier.frmSelectArea.fHeight" NewName="Magnifier.frmSelectArea.cdcd9f95e9eb0f4665442235a50187878" />
+<Entry OldName="Magnifier.frmSelectArea.fLeft" NewName="Magnifier.frmSelectArea.c3ec92f4b480257cb9e75dfd38781615f" />
+<Entry OldName="Magnifier.frmSelectArea.fTop" NewName="Magnifier.frmSelectArea.c5bf87ee133c3dd465cde7527f48dd236" />
+<Entry OldName="Magnifier.frmSelectArea.ChangeValues" NewName="Magnifier.frmSelectArea.c9f11cdc0836f08a1b6f2176bc95fe058" />
+<Entry OldName="Magnifier.frmSelectArea.First" NewName="Magnifier.frmSelectArea.cee66bb106829b0cc5de70b086f174cba" />
+<Entry OldName="Magnifier.frmSelectArea.components" NewName="Magnifier.frmSelectArea.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.frmSelectArea.btnOK" NewName="Magnifier.frmSelectArea.c9fb0a840ff8ff28f377abd084a8bf63d" />
+<Entry OldName="Magnifier.frmSelectArea.btnCancel" NewName="Magnifier.frmSelectArea.cf4627aa0569acc819f0a66805a90e20c" />
+<Entry OldName="Magnifier.frmSelectArea.nudX" NewName="Magnifier.frmSelectArea.cb1641160a65d45fcacf728e6979071f8" />
+<Entry OldName="Magnifier.frmSelectArea.nudY" NewName="Magnifier.frmSelectArea.cb49053495d343cd224427b73311a81b4" />
+<Entry OldName="Magnifier.frmSelectArea.nudWidth" NewName="Magnifier.frmSelectArea.cc422aa4f7952d5713d7590278976c7c8" />
+<Entry OldName="Magnifier.frmSelectArea.nudHeight" NewName="Magnifier.frmSelectArea.cd54bff1b72d6a69cf85af87651688582" />
+<Entry OldName="Magnifier.frmStart.InChangeLanguage" NewName="Magnifier.frmStart.cdd596a2200f413d6509980b829332a88" />
+<Entry OldName="Magnifier.frmStart.components" NewName="Magnifier.frmStart.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.frmStart.label1" NewName="Magnifier.frmStart.c83dd9f8f8c1ba39a92c09b59026d9edb" />
+<Entry OldName="Magnifier.frmStart.btnOK" NewName="Magnifier.frmStart.c9fb0a840ff8ff28f377abd084a8bf63d" />
+<Entry OldName="Magnifier.frmStart.menuStrip1" NewName="Magnifier.frmStart.c18dc4537ecbf4cac5d541f2a608638b7" />
+<Entry OldName="Magnifier.frmStart.fileToolStripMenuItem" NewName="Magnifier.frmStart.cf4c5f49f1601633e8d7986d53ebe0575" />
+<Entry OldName="Magnifier.frmStart.exitToolStripMenuItem" NewName="Magnifier.frmStart.c5fe35417110526329a62b967ae806d1a" />
+<Entry OldName="Magnifier.frmStart.optionsToolStripMenuItem" NewName="Magnifier.frmStart.c1cffabcb4b9a95aa92faa8e13f97232c" />
+<Entry OldName="Magnifier.frmStart.languageToolStripMenuItem" NewName="Magnifier.frmStart.c152b82ed30b9e896028a5ddbebbdbb0f" />
+<Entry OldName="Magnifier.frmStart.languages1ToolStripMenuItem" NewName="Magnifier.frmStart.ca7a40f2c9d2bad8e6cb0abc597f2a523" />
+<Entry OldName="Magnifier.frmStart.languages2ToolStripMenuItem" NewName="Magnifier.frmStart.c90294a31075d62852e46f77b5b5e714b" />
+<Entry OldName="Magnifier.frmStart.buyToolStripMenuItem" NewName="Magnifier.frmStart.cc59eee2bef42afc574923d84306bd03f" />
+<Entry OldName="Magnifier.frmStart.buyApplicationToolStripMenuItem" NewName="Magnifier.frmStart.cd96a29a534f72bb0480568cfd78273a7" />
+<Entry OldName="Magnifier.frmStart.enterLicenseKeyToolStripMenuItem" NewName="Magnifier.frmStart.c4c5277f95d9e0d3ca647492ab1ef6042" />
+<Entry OldName="Magnifier.frmStart.helpToolStripMenuItem" NewName="Magnifier.frmStart.c6f0286a3bb1d98a19f4875ab64523aab" />
+<Entry OldName="Magnifier.frmStart.helpGuideToolStripMenuItem" NewName="Magnifier.frmStart.c62203199d9d55e914043a3e6f0fa87e8" />
+<Entry OldName="Magnifier.frmStart.pleaseDonateToolStripMenuItem1" NewName="Magnifier.frmStart.c7d5570c7fed0ade212d373cdea615a41" />
+<Entry OldName="Magnifier.frmStart.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="Magnifier.frmStart.ca5994f737a0ecf0feafff190b63b9042" />
+<Entry OldName="Magnifier.frmStart.tiHelpFeedback" NewName="Magnifier.frmStart.c6a74a743026c71fd27989956745c8f8d" />
+<Entry OldName="Magnifier.frmStart.checkForNewVersionToolStripMenuItem" NewName="Magnifier.frmStart.ca6915a4106a750b54773968b1007c5a1" />
+<Entry OldName="Magnifier.frmStart.toolStripMenuItem1" NewName="Magnifier.frmStart.c8bac286d6117ed95de8f8108e553bef6" />
+<Entry OldName="Magnifier.frmStart.followUsOnTwitterToolStripMenuItem" NewName="Magnifier.frmStart.cb712feb81d960dcac4000a4b4a0bd86c" />
+<Entry OldName="Magnifier.frmStart.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="Magnifier.frmStart.c8e254a249c12d37350429f0b367a6b71" />
+<Entry OldName="Magnifier.frmStart.aboutToolStripMenuItem" NewName="Magnifier.frmStart.ccb77dd1f0316f36120f54055f934d9df" />
+<Entry OldName="Magnifier.frmStart.magnificationAreaShouldFollowMouseCursorMovementToolStripMenuItem" NewName="Magnifier.frmStart.c5354e7a4d95f967e62da5859e5a2319f" />
+<Entry OldName="Magnifier.frmStart.highlightMouseCursorToolStripMenuItem" NewName="Magnifier.frmStart.c4abe7dd3781602981d2f11b9ca5c0cb1" />
+<Entry OldName="Magnifier.GDIStuff.SRCCOPY" NewName="A.c704e92f23862d23c482f97993d6a39fe.cfeb66b6fad9d7df619a9b65da7420f9f" />
+<Entry OldName="Magnifier.ImageComboBox.imageList" NewName="A.c4095499ff93ac21a37059bea2f2d93c6.c819cb6300ecf808e18e24158b306b951" />
+<Entry OldName="Magnifier.ComboBoxExItem._text" NewName="A.cf758073387e73f7a4422c7e90adf18cc.c1b33af91f8a511cb68afa592f4fcf4d8" />
+<Entry OldName="Magnifier.ComboBoxExItem._imageIndex" NewName="A.cf758073387e73f7a4422c7e90adf18cc.c3a5327db1e9ecbc0d3a620728c03b0ea" />
+<Entry OldName="Magnifier.InterceptKeys.KEYEVENTF_EXTENDEDKEY" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cc111e676dc124249a60b846665a92cf0" />
+<Entry OldName="Magnifier.InterceptKeys.KEYEVENTF_KEYUP" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cbaafc93d0bd3ab74a360b702b5a52681" />
+<Entry OldName="Magnifier.InterceptKeys.NUMLOCK" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c51eb03e3bed74d50c41d0cbaffa04bac" />
+<Entry OldName="Magnifier.InterceptKeys.CAPITAL" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.caa03e3752aec2e33bd354447de1b9ea5" />
+<Entry OldName="Magnifier.InterceptKeys.SCROLL" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c548287a6f96b8caab8216d324c870395" />
+<Entry OldName="Magnifier.InterceptKeys.INSERT" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cc718c995af7c22a2c5daeb3fab4f14ed" />
+<Entry OldName="Magnifier.InterceptKeys.WH_KEYBOARD_LL" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ce2783f1f77bd7816b4b735b8cebde213" />
+<Entry OldName="Magnifier.InterceptKeys.WM_KEYDOWN" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ca4149dcf16256686572533a542833074" />
+<Entry OldName="Magnifier.InterceptKeys.WM_KEYUP" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cbd794ec49290f2b69965c2837265b348" />
+<Entry OldName="Magnifier.InterceptKeys.WM_SYSKEYDOWN" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c19d64de374a0c22c76b229b375776677" />
+<Entry OldName="Magnifier.InterceptKeys.WM_SYSKEYUP" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ce08c7eab5deac02ffed70804ea0420b6" />
+<Entry OldName="Magnifier.InterceptKeys._proc" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c5a158afaa479df24fa9fe85fef09e415" />
+<Entry OldName="Magnifier.InterceptKeys.InAddKeyMode" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c9609bd63cbca82b10f03d9e4de8ad0d6" />
+<Entry OldName="Magnifier.InterceptKeys._hookID" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cd053ddc38ffbafd27eba6e138f22b0ef" />
+<Entry OldName="Magnifier.InterceptKeys.bShift" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c099319ce8a9d8c28f8146b6c74475b65" />
+<Entry OldName="Magnifier.InterceptKeys.bCtrl" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c0955da0615803f62cd2b7e3fe5801b4c" />
+<Entry OldName="Magnifier.InterceptKeys.bAlt" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c642c82e623b2d8330a21b9d4a878f48b" />
+<Entry OldName="Magnifier.InterceptKeys.bAltGr" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ce04c71779405fdc8ba886af8944c90df" />
+<Entry OldName="Magnifier.InterceptKeys.bLWin" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c9b71dc8c7a40415c49984e56657e2020" />
+<Entry OldName="Magnifier.InterceptKeys.bRWin" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c735f7ac3e96c0507ff995891d6fc17b9" />
+<Entry OldName="Magnifier.InterceptKeys.Hooked" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c803616dd7460035e91a83bb6e063115e" />
+<Entry OldName="Magnifier.InterceptKeys.HookedForAddKey" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c1660b17b06b08a3e1894d84957c9cefe" />
+<Entry OldName="Magnifier.InterceptKeys.ShouldSendKeys" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c7fa1ff73152e79c7f7bea5f027e31641" />
+<Entry OldName="Magnifier.InterceptKeys.HookItems" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cbacb72b84968980e40bd27c81a818314" />
+<Entry OldName="Magnifier.InterceptKeys.bwHookCallbak" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ce32d91a42e7e2341e0a857658db2cf37" />
+<Entry OldName="Magnifier.InterceptKeys.CheckSetHookTimer" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c71f9457ffd4e64fe3105b17346912a78" />
+<Entry OldName="Magnifier.InterceptMouse._proc" NewName="Magnifier.InterceptMouse.c5a158afaa479df24fa9fe85fef09e415" />
+<Entry OldName="Magnifier.InterceptMouse._hookID" NewName="Magnifier.InterceptMouse.cd053ddc38ffbafd27eba6e138f22b0ef" />
+<Entry OldName="Magnifier.InterceptMouse.WH_MOUSE_LL" NewName="Magnifier.InterceptMouse.c07b37aebdb208b7dbc004795c18aa2b4" />
+<Entry OldName="Magnifier.Module.BlueForeColor" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cc561f83f49bd0dcc8702165b28aea628" />
+<Entry OldName="Magnifier.Module.ApplicationName" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c67bb0602e80cd29e7217b926dfd089e5" />
+<Entry OldName="Magnifier.Module.Version" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c99224d57e99f4901d05cdc002cc0280f" />
+<Entry OldName="Magnifier.Module.Ver" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c0e013bf90c1c8ad2dd6ef48b37723770" />
+<Entry OldName="Magnifier.Module.ShortApplicationTitle" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c8e1bbdb612f8e26ebbeb33358e17b71e" />
+<Entry OldName="Magnifier.Module.ApplicationTitle" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c9a61ec7ff4da7bf56f8128ebea288561" />
+<Entry OldName="Magnifier.Module.DownloadURL" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c74e18b01f397179ef87ea0bcbf065d6d" />
+<Entry OldName="Magnifier.Module.HelpURL" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c2ec4d29728a3f1d24cfbfcad48f3ce62" />
+<Entry OldName="Magnifier.Module.ProductWebpageURL" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c04b27dc05e086323244f7c6b49bd65a0" />
+<Entry OldName="Magnifier.Module.BuyURL" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.ca4318f5d65167e325638b0c3f7ee18d6" />
+<Entry OldName="Magnifier.Module.VersionURL" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cda35ab490a4485b25aca06337e8bbd3b" />
+<Entry OldName="Magnifier.Module.TipText" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c85bff2b2e2de2cb09782ddce3ad5494d" />
+<Entry OldName="Magnifier.Module.GeneratedTemporaryFiles" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c8c879c60f5babed4c1981ffea640491c" />
+<Entry OldName="Magnifier.Module.TempFolders" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cfad77643532790e5238e8238fb6b791e" />
+<Entry OldName="Magnifier.Module.OpenImagesFilter" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c596fd1ee7ed01f5ac972c6198d8ed2db" />
+<Entry OldName="Magnifier.Module.OpenFilesFilter" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cbe7190257121251ff37fdde43355d864" />
+<Entry OldName="Magnifier.Module.AcceptableMediaInputPattern" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c3f280fc28da82f309867732660db83e1" />
+<Entry OldName="Magnifier.Module._TempFolder" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c67b86c27642b633451a2684f668f5ce8" />
+<Entry OldName="Magnifier.Module.ScheduleMode" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c0c4953ff4b574633be359c2778d50921" />
+<Entry OldName="Magnifier.Module.StealthMode" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c24a551f4e516f8ad37981be3145d6eb5" />
+<Entry OldName="Magnifier.Module._ProfilesFile" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c2e1c45f1cc676d41b6de80d9b9c1c9fa" />
+<Entry OldName="Magnifier.Module._VideoOptionsFile" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c2f90f13a55b55af4d1263adfd38a8979" />
+<Entry OldName="Magnifier.Module.AppDataDirectory" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c19f4dede30f9528e4f66ed48be96255a" />
+<Entry OldName="Magnifier.Module.CurrentImagesDirectory" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c65e8fbd3ab86d5501bf308a8345037d6" />
+<Entry OldName="Magnifier.Module.SelectedLanguage" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.ce8f612ac346c2933cd5597be26164ab9" />
+<Entry OldName="Magnifier.Module.args" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c9813aadb81ef83bcc035a21548ade7a6" />
+<Entry OldName="Magnifier.Module.IsCommandLine" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cf42ba18fbe7b0baac54fd83f3804124e" />
+<Entry OldName="Magnifier.Module.IsFromWindowsExplorer" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c81080c548eeada1fab8dfd7f2658e9f8" />
+<Entry OldName="Magnifier.Module.DoNotOverwriteFiles" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c4a0996cde92b1a69fd597549b5196d8b" />
+<Entry OldName="Magnifier.Module.AskBeforeOverwrite" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c5c498562de030bb7c361f0acb402660f" />
+<Entry OldName="Magnifier.Module.LeaveSameDateTime" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c135e1c30109023940ed60415550c73d6" />
+<Entry OldName="Magnifier.Module.OutputFilepath" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c5bcc9f9759dcfcca58c4efe67c21b0fa" />
+<Entry OldName="Magnifier.Module._Modex64" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c2a5b80f1d83ff62e77fbe4caffb3d491" />
+<Entry OldName="Magnifier.NiceLine.components" NewName="Magnifier.NiceLine.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.NiceLine._Caption" NewName="Magnifier.NiceLine.c273031493e50a049094b0264360886b4" />
+<Entry OldName="Magnifier.NiceLine._CaptionMarginSpace" NewName="Magnifier.NiceLine.ca740ad50286d6a07107f6309edfb69a9" />
+<Entry OldName="Magnifier.NiceLine._CaptionPadding" NewName="Magnifier.NiceLine.c138e5bf84c0194d744926f6ceaa0d951" />
+<Entry OldName="Magnifier.NiceLine._LineVerticalAlign" NewName="Magnifier.NiceLine.c46d78f9437e9a1c3de5f17ebf821fa1e" />
+<Entry OldName="Magnifier.NiceLine._CaptionOrizontalAlign" NewName="Magnifier.NiceLine.c0ff58c7ee371d253a90fc8204d199c03" />
+<Entry OldName="Magnifier.ResFlags.resourceMan" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.ca05824cc8107c845d64c0578dace9e3a" />
+<Entry OldName="Magnifier.ResFlags.resourceCulture" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.c2945d24e0e6f4364da2267d85778d867" />
+<Entry OldName="Magnifier.ResTranslate.resourceMan" NewName="A.c191337fd6693f27a966cd8bc1ec33c51.ca05824cc8107c845d64c0578dace9e3a" />
+<Entry OldName="Magnifier.ResTranslate.resourceCulture" NewName="A.c191337fd6693f27a966cd8bc1ec33c51.c2945d24e0e6f4364da2267d85778d867" />
+<Entry OldName="Magnifier.TranslateHelper.rm" NewName="A.c9fe964147ccf4875908926fbc64c2022.c48ff47481c56ba6805bd520463d4741c" />
+<Entry OldName="Magnifier.TranslateHelper.rm2" NewName="A.c9fe964147ccf4875908926fbc64c2022.cd71ec347100e0c87a7ac81127947603f" />
+<Entry OldName="Magnifier.ucTextProgressBar.WmPaint" NewName="Magnifier.ucTextProgressBar.cb941903b58fe281b92a3fc61342e1140" />
+<Entry OldName="Magnifier.ucTextProgressBar.components" NewName="Magnifier.ucTextProgressBar.c30893247731ae96ef45a2dd8efc70b4a" />
+<Entry OldName="Magnifier.UpdateHelper.bwCheckVersion" NewName="Magnifier.UpdateHelper.c17bba90f3e04f8dae70275d910ce6665" />
+<Entry OldName="Magnifier.Win32Stuff.SM_CXSCREEN" NewName="A.cf45a400b460e02e901dbf979526dbe22.ce5ca4d7b7834e2e7c867d076927faf72" />
+<Entry OldName="Magnifier.Win32Stuff.SM_CYSCREEN" NewName="A.cf45a400b460e02e901dbf979526dbe22.c215a8a064a98b019a8d95a138807e5fc" />
+<Entry OldName="Magnifier.Win32Stuff.CURSOR_SHOWING" NewName="A.cf45a400b460e02e901dbf979526dbe22.c44ac9f79e19ec73cd3371a1b19023e8e" />
+<Entry OldName="Magnifier.Properties.Resources.resourceMan" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.ca05824cc8107c845d64c0578dace9e3a" />
+<Entry OldName="Magnifier.Properties.Resources.resourceCulture" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.c2945d24e0e6f4364da2267d85778d867" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.BF704719995AD3E24DC47551197B85171FC38E0AB9D09D034B1029A61318F717" NewName="A.ce48ae05ec3f2e054aa6834c35a5ffae7.c9fe52d1fb85f2b6521c6efa769162407" />
+<Entry OldName="Magnifier.CaptureScreen.SIZE.cx" NewName="A.cbddd19a165a310f54b7344005cee4748.c1721863522b716c485298d65285e261d.ca5f1ad933495f7998993b0b10b5ff62d" />
+<Entry OldName="Magnifier.CaptureScreen.SIZE.cy" NewName="A.cbddd19a165a310f54b7344005cee4748.c1721863522b716c485298d65285e261d.cd7b2bfe2ea97f76ac95ec3182e896528" />
+<Entry OldName="Magnifier.CaptureScreen.CURSORINFO.cbSize" NewName="A.cbddd19a165a310f54b7344005cee4748.c12369cbabf8271c2cd4d9f7830de2627.c3c2a2c799dc906f88ebcb3b0508e3f45" />
+<Entry OldName="Magnifier.CaptureScreen.CURSORINFO.flags" NewName="A.cbddd19a165a310f54b7344005cee4748.c12369cbabf8271c2cd4d9f7830de2627.c443a70dc716c53082cd48c963cb3acdb" />
+<Entry OldName="Magnifier.CaptureScreen.CURSORINFO.hCursor" NewName="A.cbddd19a165a310f54b7344005cee4748.c12369cbabf8271c2cd4d9f7830de2627.cacbe9a3a0daf98b535fe23021e0e26a0" />
+<Entry OldName="Magnifier.CaptureScreen.CURSORINFO.ptScreenPos" NewName="A.cbddd19a165a310f54b7344005cee4748.c12369cbabf8271c2cd4d9f7830de2627.c223e702668f14b5c8cbac3dd159bf7e0" />
+<Entry OldName="Magnifier.CaptureScreen.POINTAPI.x" NewName="A.cbddd19a165a310f54b7344005cee4748.c2ab94770772152fbcb97c254baf5849e.cba73a1827ab390e7d1a6221ebc78afdc" />
+<Entry OldName="Magnifier.CaptureScreen.POINTAPI.y" NewName="A.cbddd19a165a310f54b7344005cee4748.c2ab94770772152fbcb97c254baf5849e.ca1f4eb459fceca7a7db3fc78c25a53bf" />
+<Entry OldName="Magnifier.InterceptKeys.KBDLLHOOKSTRUCT.key" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c6aa60c268b6089a2b0eacdf1e146c9a9.cf360e84fba7dafa5ed628ed35a54e2b7" />
+<Entry OldName="Magnifier.InterceptKeys.KBDLLHOOKSTRUCT.scanCode" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c6aa60c268b6089a2b0eacdf1e146c9a9.c9af713d5fe50c88c725e290556e941c3" />
+<Entry OldName="Magnifier.InterceptKeys.KBDLLHOOKSTRUCT.flags" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c6aa60c268b6089a2b0eacdf1e146c9a9.c443a70dc716c53082cd48c963cb3acdb" />
+<Entry OldName="Magnifier.InterceptKeys.KBDLLHOOKSTRUCT.time" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c6aa60c268b6089a2b0eacdf1e146c9a9.cc3636bc9cb356c63d9fc17636186ccd9" />
+<Entry OldName="Magnifier.InterceptKeys.KBDLLHOOKSTRUCT.extra" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c6aa60c268b6089a2b0eacdf1e146c9a9.cb0c5db4ea32f952a272291416ef574cf" />
+<Entry OldName="Magnifier.Win32Stuff.ICONINFO.fIcon" NewName="A.cf45a400b460e02e901dbf979526dbe22.cd1617a6a374eba03decb80fbbcd0e709.c83b01f47906f1bfed7f46eecd8321f8f" />
+<Entry OldName="Magnifier.Win32Stuff.ICONINFO.xHotspot" NewName="A.cf45a400b460e02e901dbf979526dbe22.cd1617a6a374eba03decb80fbbcd0e709.cddf7eee4a98590534cdf800e4b989521" />
+<Entry OldName="Magnifier.Win32Stuff.ICONINFO.yHotspot" NewName="A.cf45a400b460e02e901dbf979526dbe22.cd1617a6a374eba03decb80fbbcd0e709.c4b83773a2d54160a7d7b84487483fde6" />
+<Entry OldName="Magnifier.Win32Stuff.ICONINFO.hbmMask" NewName="A.cf45a400b460e02e901dbf979526dbe22.cd1617a6a374eba03decb80fbbcd0e709.c54eb4cafb27c79584ea03c017f833ed9" />
+<Entry OldName="Magnifier.Win32Stuff.ICONINFO.hbmColor" NewName="A.cf45a400b460e02e901dbf979526dbe22.cd1617a6a374eba03decb80fbbcd0e709.c8f633b16f461c4d4b1d53eaf38f7df55" />
+<Entry OldName="Magnifier.Win32Stuff.POINT.x" NewName="A.cf45a400b460e02e901dbf979526dbe22.cadf5ecfa5b2b2014df882ab79e8abeb9.cba73a1827ab390e7d1a6221ebc78afdc" />
+<Entry OldName="Magnifier.Win32Stuff.POINT.y" NewName="A.cf45a400b460e02e901dbf979526dbe22.cadf5ecfa5b2b2014df882ab79e8abeb9.ca1f4eb459fceca7a7db3fc78c25a53bf" />
+<Entry OldName="Magnifier.Win32Stuff.CURSORINFO.cbSize" NewName="A.cf45a400b460e02e901dbf979526dbe22.c37e1a66ce3ce049490f1c42aa70c14b8.c3c2a2c799dc906f88ebcb3b0508e3f45" />
+<Entry OldName="Magnifier.Win32Stuff.CURSORINFO.flags" NewName="A.cf45a400b460e02e901dbf979526dbe22.c37e1a66ce3ce049490f1c42aa70c14b8.c443a70dc716c53082cd48c963cb3acdb" />
+<Entry OldName="Magnifier.Win32Stuff.CURSORINFO.hCursor" NewName="A.cf45a400b460e02e901dbf979526dbe22.c37e1a66ce3ce049490f1c42aa70c14b8.cacbe9a3a0daf98b535fe23021e0e26a0" />
+<Entry OldName="Magnifier.Win32Stuff.CURSORINFO.ptScreenPos" NewName="A.cf45a400b460e02e901dbf979526dbe22.c37e1a66ce3ce049490f1c42aa70c14b8.c223e702668f14b5c8cbac3dd159bf7e0" />
+<Entry OldName="Magnifier.CaptureScreen..ctor()" NewName="A.cbddd19a165a310f54b7344005cee4748..ctor()" />
+<Entry OldName="Magnifier.CaptureScreen..cctor()" NewName="A.cbddd19a165a310f54b7344005cee4748..cctor()" />
+<Entry OldName="Magnifier.CaptureScreen.CaptureDesktop()" NewName="A.cbddd19a165a310f54b7344005cee4748.ce1da61a8a706fbb59248d22afc1cb06f()" />
+<Entry OldName="Magnifier.CaptureScreen.IsCursorDifferent()" NewName="A.cbddd19a165a310f54b7344005cee4748.cd1d573a5edf8f5868fc2ccb8d65d325c()" />
+<Entry OldName="Magnifier.CaptureScreen.CaptureImageCursor(Point&amp; point, Double scale)" NewName="A.cbddd19a165a310f54b7344005cee4748.c03bbff780720fe323c8d4d90555c0026(Point&amp; cf5c93e8164f51b6e26eabb8fde88d405, Double cc5d25d99844fc32434a80c4dae905b34)" />
+<Entry OldName="Magnifier.CaptureScreen.CaptureImageCursor2(Point&amp; point, Double scale)" NewName="A.cbddd19a165a310f54b7344005cee4748.c414ed39ac8a34e811eede43ec6cab9cc(Point&amp; cf5c93e8164f51b6e26eabb8fde88d405, Double cc5d25d99844fc32434a80c4dae905b34)" />
+<Entry OldName="Magnifier.CaptureScreen.GetCursorInfo(CURSORINFO&amp; pci)" NewName="A.cbddd19a165a310f54b7344005cee4748.cfa0d5a33b46f01375c0d63c7057aa5ee(c12369cbabf8271c2cd4d9f7830de2627&amp; cfb9013cc88ea9acf01fd3aa486f9441f)" />
+<Entry OldName="Magnifier.CaptureScreen.DrawIconEx(IntPtr hdc, Int32 xLeft, Int32 yTop, IntPtr hIcon, Int32 cxWidth, Int32 cyHeight, Int32 istepIfAniCur, IntPtr hbrFlickerFreeDraw, Int32 diFlags)" NewName="A.cbddd19a165a310f54b7344005cee4748.c34500fba5168776ff19a9b82e64786ce(IntPtr c4b2f009c6f7cdc29c2ac0b9f7e98fba1, Int32 ce0c1e98bc894ad4ce5016e266cffd9e0, Int32 c0efe296dbbefde6539dec7422ced2fe6, IntPtr c3d45aa500ef2895614371611489f0e2f, Int32 c0eb7b8b0bd73d777ea61818b2a844df7, Int32 c4e6c7aa674325d1e3a3ef9c84f8bbfb3, Int32 c13eb739d40e7c3508439d4ba251acf97, IntPtr c820a8a1d5dc8d85957797c4435ddb9ff, Int32 cb5e48fd51b2c9282540e71830c93cd55)" />
+<Entry OldName="Magnifier.CaptureScreen.CaptureCursor3(Point&amp; position)" NewName="A.cbddd19a165a310f54b7344005cee4748.c84e05f0b8db56ac9f54908e83ade5054(Point&amp; ca282734f8f7bb9a703de1900dbcb85bb)" />
+<Entry OldName="Magnifier.CaptureScreen.CaptureImageCursor2(Int32&amp; x, Int32&amp; y)" NewName="A.cbddd19a165a310f54b7344005cee4748.c414ed39ac8a34e811eede43ec6cab9cc(Int32&amp; cba73a1827ab390e7d1a6221ebc78afdc, Int32&amp; ca1f4eb459fceca7a7db3fc78c25a53bf)" />
+<Entry OldName="Magnifier.CaptureScreen.CaptureCursor(Int32&amp; x, Int32&amp; y)" NewName="A.cbddd19a165a310f54b7344005cee4748.c983554350043f4c2addd3e6c5c618598(Int32&amp; cba73a1827ab390e7d1a6221ebc78afdc, Int32&amp; ca1f4eb459fceca7a7db3fc78c25a53bf)" />
+<Entry OldName="Magnifier.CaptureScreen.CaptureDesktopWithCursor()" NewName="A.cbddd19a165a310f54b7344005cee4748.c3ddb199622a555045a9c2bcf0a4703b2()" />
+<Entry OldName="Magnifier.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="Magnifier.CustomForm.c55684daa7b3deda934098ce55a6ae0c8(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.CustomForm.InitializeComponent()" NewName="Magnifier.CustomForm.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.ExceptionHandlersHelper..ctor()" NewName="A.c304823c426602519046eeadf89168dc6..ctor()" />
+<Entry OldName="Magnifier.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c304823c426602519046eeadf89168dc6.c021fba6a98bebe783e1f672ca724a2b1()" />
+<Entry OldName="Magnifier.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c304823c426602519046eeadf89168dc6.ce68082b728a511564f126d2ec3013170(Object cd9a0aa81c52e6055b5e3bd5567d27814, UnhandledExceptionEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c304823c426602519046eeadf89168dc6.cce06ac37011b0cd08417323091db4538(Object cd9a0aa81c52e6055b5e3bd5567d27814, ThreadExceptionEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="Magnifier.frmLanguage.cf29886b53490a76dbb20094e8c075f0f(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="Magnifier.frmLanguage.c123c817bb86a02af5216332e154b66a7(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmLanguage.InitializeComponent()" NewName="Magnifier.frmLanguage.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.frmMain.FixRects()" NewName="Magnifier.frmMain.c2157e8ea2e9784f4c018bc6f256cd5be()" />
+<Entry OldName="Magnifier.frmMain.frmMain_MouseMove(Object sender, MouseEventArgs e)" NewName="Magnifier.frmMain.ce9050b629739d5507bbb3b402afddaa7(Object cd9a0aa81c52e6055b5e3bd5567d27814, MouseEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.frmMain_MouseDown(Object sender, MouseEventArgs e)" NewName="Magnifier.frmMain.c0af6ba69b01dfe25c1798c8946a1cf24(Object cd9a0aa81c52e6055b5e3bd5567d27814, MouseEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="Magnifier.frmMain.cdbe691a4502530e80c8644b61e62b4a6(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="Magnifier.frmMain.c49cd15f7283bbe18647468d42a92dc92(Object cd9a0aa81c52e6055b5e3bd5567d27814, FormClosingEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.frmMain_Paint(Object sender, PaintEventArgs e)" NewName="Magnifier.frmMain.c3f99f6cc17aaa369558c7c0296f94907(Object cd9a0aa81c52e6055b5e3bd5567d27814, PaintEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="Magnifier.frmMain.cd21c1268f60a54c413ed0e45c42e6628(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.timMagnify_Tick(Object sender, EventArgs e)" NewName="Magnifier.frmMain.c8def1f954d67ddf28dfda668b07bdc52(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.frmMain_Move(Object sender, EventArgs e)" NewName="Magnifier.frmMain.cd94fce3c017a48a5e98e705d399182af(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmMain.InitializeComponent()" NewName="Magnifier.frmMain.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="Magnifier.frmAbout.ce2e514a6f5280742933e439335accec4(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="Magnifier.frmAbout.c1c8d0725dbfcbdabc6e7a6ff70110efb(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="Magnifier.frmAbout.c5800cdf9773481e98ed7ca960f708b46(Object cd9a0aa81c52e6055b5e3bd5567d27814, LinkLabelLinkClickedEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="Magnifier.frmAbout.c23edd28b707ab74a82bd8f84b22ae728(Object cd9a0aa81c52e6055b5e3bd5567d27814, LinkLabelLinkClickedEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmAbout.InitializeComponent()" NewName="Magnifier.frmAbout.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="Magnifier.frmDownloadUpdate.cd8c01c6a44d2d202568c2fe251303f63(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="Magnifier.frmDownloadUpdate.cd8dba6ac9a9e03079d64523631ea6538(Object cd9a0aa81c52e6055b5e3bd5567d27814, AsyncCompletedEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="Magnifier.frmDownloadUpdate.cafaca984cb81f11e216b9063bde0d666(Object cd9a0aa81c52e6055b5e3bd5567d27814, DownloadProgressChangedEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="Magnifier.frmDownloadUpdate.c4026bd9f1418e91a1d5bf181438c1704(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmDownloadUpdate.InitializeComponent()" NewName="Magnifier.frmDownloadUpdate.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.frmSelectArea.frmSelectArea_Resize(Object sender, EventArgs e)" NewName="Magnifier.frmSelectArea.caece63f5e215407c746ee62b294380a0(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.FixRects()" NewName="Magnifier.frmSelectArea.c2157e8ea2e9784f4c018bc6f256cd5be()" />
+<Entry OldName="Magnifier.frmSelectArea.frmSelectArea_MouseMove(Object sender, MouseEventArgs e)" NewName="Magnifier.frmSelectArea.c12aff635b56bea3c42470c30c6fff158(Object cd9a0aa81c52e6055b5e3bd5567d27814, MouseEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.frmSelectArea_Paint(Object sender, PaintEventArgs e)" NewName="Magnifier.frmSelectArea.c39fd904b22cceb033449f21bbedb0638(Object cd9a0aa81c52e6055b5e3bd5567d27814, PaintEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.frmSelectArea_MouseDown(Object sender, MouseEventArgs e)" NewName="Magnifier.frmSelectArea.c9e8ed1269d54278dccb065bc9d298d96(Object cd9a0aa81c52e6055b5e3bd5567d27814, MouseEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.frmSelectArea_MouseUp(Object sender, MouseEventArgs e)" NewName="Magnifier.frmSelectArea.ca847e5669290e07fb2c46dee51f79aa7(Object cd9a0aa81c52e6055b5e3bd5567d27814, MouseEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.frmSelectArea_Load(Object sender, EventArgs e)" NewName="Magnifier.frmSelectArea.c16b869c27a81f2f73e34e47d1fab5250(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.btnCancel_Click(Object sender, EventArgs e)" NewName="Magnifier.frmSelectArea.c7200ab639a37ab7cce3ab901007332db(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.btnOK_Click(Object sender, EventArgs e)" NewName="Magnifier.frmSelectArea.cf29886b53490a76dbb20094e8c075f0f(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.nudX_ValueChanged(Object sender, EventArgs e)" NewName="Magnifier.frmSelectArea.ceec6346d6dba9a59000f053936d8d0bc(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmSelectArea.InitializeComponent()" NewName="Magnifier.frmSelectArea.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.frmStart.btnOK_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.cf29886b53490a76dbb20094e8c075f0f(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c98dce127bb2ac5707f34656ba918763e(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.SetupOnLoad()" NewName="Magnifier.frmStart.c8b274f17ef908e95c93b6db572b644d5()" />
+<Entry OldName="Magnifier.frmStart.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c6017c79488e0ceb890a255f967b78aa1(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c9ea6a7ae8cdce9b8eb1f2a65e6fc678f(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c28c2c80c4a62f9af54052a3cff15fc11(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c01b007a3dda7467d41a0d40e423262b9(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c7cce8b286607f2df90f30a4f71c55e8c(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.cf8b266707b10b6813f4c9f6d62fb13e3(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c045d3c0c13bbca773df37d81c0b70f1f(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.cae96b274864a0d516530d010e51a281f(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.exitToolStripMenuItem_Click_1(Object sender, EventArgs e)" NewName="Magnifier.frmStart.cf4ed7d3ec55ca793bd7278336473aa9e(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.AddLanguageMenuItems()" NewName="Magnifier.frmStart.cfdf4d15630ec104825261e6a31476b70()" />
+<Entry OldName="Magnifier.frmStart.tiLang_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.cb8ead41c686b32a6db4ec4342876bdfc(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.ChangeLanguage(String language_code)" NewName="Magnifier.frmStart.c98a05a9e64ac660d04d282c15d9a178f(String c18667a6908fc5e4f4368512ba1afce6f)" />
+<Entry OldName="Magnifier.frmStart.frmStart_Load(Object sender, EventArgs e)" NewName="Magnifier.frmStart.cb104e47e36dee1c8a5d2e62f7ff89da3(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.magnificationAreaShouldFollowMouseCursorMovementToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.cd27ab2d7e8a212e3602907b7c0f1b941(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.frmStart_FormClosing(Object sender, FormClosingEventArgs e)" NewName="Magnifier.frmStart.cce420c194b984bd92781d30b91114ec1(Object cd9a0aa81c52e6055b5e3bd5567d27814, FormClosingEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.highlightMouseCursorToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="Magnifier.frmStart.c2d07ffa17ada2f6c6d8521dd6974621c(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.frmStart.InitializeComponent()" NewName="Magnifier.frmStart.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.GDIStuff..ctor()" NewName="A.c704e92f23862d23c482f97993d6a39fe..ctor()" />
+<Entry OldName="Magnifier.GDIStuff.CreateDC(IntPtr lpszDriver, String lpszDevice, IntPtr lpszOutput, IntPtr lpInitData)" NewName="A.c704e92f23862d23c482f97993d6a39fe.cdc788e252fc43581c403f082af4eec56(IntPtr cdf3d7f8bc62ec4bccfcbcb3ace81bf99, String cce04e7de99946c5fdc5695d9bb0e4fe4, IntPtr cd0a316db25902e802d5ac39af8901d24, IntPtr c9c50c0bdf9d592d99fe3384857285755)" />
+<Entry OldName="Magnifier.GDIStuff.DeleteDC(IntPtr hDc)" NewName="A.c704e92f23862d23c482f97993d6a39fe.c109a86c614913088828d50eb1a7ed16d(IntPtr c2cf40446b70b090462ef6c9c4b100684)" />
+<Entry OldName="Magnifier.GDIStuff.DeleteObject(IntPtr hDc)" NewName="A.c704e92f23862d23c482f97993d6a39fe.c5beae4d8e2bb73299e580c6675761b80(IntPtr c2cf40446b70b090462ef6c9c4b100684)" />
+<Entry OldName="Magnifier.GDIStuff.BitBlt(IntPtr hdcDest, Int32 xDest, Int32 yDest, Int32 wDest, Int32 hDest, IntPtr hdcSource, Int32 xSrc, Int32 ySrc, Int32 RasterOp)" NewName="A.c704e92f23862d23c482f97993d6a39fe.cef09adeb9a41eae78c10c70e4ccbc6d3(IntPtr c91352d7102ee33881803657795b8f168, Int32 c6b45f33673ee4e2d690c873f4b6205ff, Int32 c4426c5313bdf732a6e8f97406479f0b5, Int32 cf34deb1691627a0f097b656dedd262b4, Int32 c8282743234e6e7662beb7e7017cde056, IntPtr cc31372c399e71ab0f37daed2aea57b11, Int32 c8c1293935c10340a050b8fe895460ab6, Int32 c557be3c00f35d46eeef3d4c49755d828, Int32 c2aa3244a8aea7855eb9980eb4983a3df)" />
+<Entry OldName="Magnifier.GDIStuff.CreateCompatibleBitmap(IntPtr hdc, Int32 nWidth, Int32 nHeight)" NewName="A.c704e92f23862d23c482f97993d6a39fe.c77a82e4a32157681b16b5c206112939f(IntPtr c4b2f009c6f7cdc29c2ac0b9f7e98fba1, Int32 c198eaab00db74b4b8e85681bbc7a6c9c, Int32 c28e9acb1a5638f18fca769de8d634fb8)" />
+<Entry OldName="Magnifier.GDIStuff.CreateCompatibleDC(IntPtr hdc)" NewName="A.c704e92f23862d23c482f97993d6a39fe.c8e175e22b6a6c820ebcf2c100a05120c(IntPtr c4b2f009c6f7cdc29c2ac0b9f7e98fba1)" />
+<Entry OldName="Magnifier.GDIStuff.SelectObject(IntPtr hdc, IntPtr bmp)" NewName="A.c704e92f23862d23c482f97993d6a39fe.cd21eb9f767a03066a75e3459d31e5e06(IntPtr c4b2f009c6f7cdc29c2ac0b9f7e98fba1, IntPtr cd5042f204ab9b671854ac310556dce8d)" />
+<Entry OldName="Magnifier.ImageComboBox..ctor()" NewName="A.c4095499ff93ac21a37059bea2f2d93c6..ctor()" />
+<Entry OldName="Magnifier.ImageComboBox.get_ImageList()" NewName="A.c4095499ff93ac21a37059bea2f2d93c6.get_cfc59b43634b8925aba1a642dce516c9e()" />
+<Entry OldName="Magnifier.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c4095499ff93ac21a37059bea2f2d93c6.set_cfc59b43634b8925aba1a642dce516c9e(ImageList cd85b4cce265240fbb1ee2f3d5e747933)" />
+<Entry OldName="Magnifier.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c4095499ff93ac21a37059bea2f2d93c6.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="Magnifier.ComboBoxExItem..ctor()" NewName="A.cf758073387e73f7a4422c7e90adf18cc..ctor()" />
+<Entry OldName="Magnifier.ComboBoxExItem..ctor(String text)" NewName="A.cf758073387e73f7a4422c7e90adf18cc..ctor(String c77a7caaa26875701f53d30a74b650f69)" />
+<Entry OldName="Magnifier.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.cf758073387e73f7a4422c7e90adf18cc..ctor(String c77a7caaa26875701f53d30a74b650f69, Int32 c88c7e19d1e5d9c3aa92c94b99067534a)" />
+<Entry OldName="Magnifier.ComboBoxExItem.get_Text()" NewName="A.cf758073387e73f7a4422c7e90adf18cc.get_c921a574e6f8448fff6cb51fe467f0fb6()" />
+<Entry OldName="Magnifier.ComboBoxExItem.set_Text(String value)" NewName="A.cf758073387e73f7a4422c7e90adf18cc.set_c921a574e6f8448fff6cb51fe467f0fb6(String cd85b4cce265240fbb1ee2f3d5e747933)" />
+<Entry OldName="Magnifier.ComboBoxExItem.get_ImageIndex()" NewName="A.cf758073387e73f7a4422c7e90adf18cc.get_ce74b0dcc47ecb042855e173f57918c3d()" />
+<Entry OldName="Magnifier.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.cf758073387e73f7a4422c7e90adf18cc.set_ce74b0dcc47ecb042855e173f57918c3d(Int32 cd85b4cce265240fbb1ee2f3d5e747933)" />
+<Entry OldName="Magnifier.ComboBoxExItem.ToString()" NewName="A.cf758073387e73f7a4422c7e90adf18cc.ToString()" />
+<Entry OldName="Magnifier.InterceptKeys..ctor()" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4..ctor()" />
+<Entry OldName="Magnifier.InterceptKeys..cctor()" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4..cctor()" />
+<Entry OldName="Magnifier.InterceptKeys.SetKeyboardState(Byte[] lpKeyState)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c90a82eb55b43e80ff5efff3c6b7c6d94(Byte[] cc5f9211b3c3ecb8ae8d01dabbd687610)" />
+<Entry OldName="Magnifier.InterceptKeys.keybd_event(Byte bVk, Byte bScan, UInt32 dwFlags, UIntPtr dwExtraInfo)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ca5034bf0c5b347c95d44e91a385c07ac(Byte cf1fffa1cf6a484e6d59e0be084693c56, Byte cfbca9e7a6ede64d90ce22fadb91e4e52, UInt32 ccfec621c893ddaa7199c78d33b4f5011, UIntPtr c6b16ca35b68b5169a1dee0a2867a4816)" />
+<Entry OldName="Magnifier.InterceptKeys.GetActiveWindow()" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cf601a4da37183460679b8cf89a303720()" />
+<Entry OldName="Magnifier.InterceptKeys.SendMessage(Int32 hWnd, UInt32 Msg, Int32 wParam, Int32 lParam)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c481835f9c6ad147b8e5917b052493159(Int32 c6c4c588c7892a50979074305be0a11e8, UInt32 c89ec2e665422f946837e81b2afbaa8c2, Int32 cd832e052c8d0d3b63be346483ea769c3, Int32 cc686cb91c52070629d3892b4014395ea)" />
+<Entry OldName="Magnifier.InterceptKeys.DisableKeys()" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c93aa0448c6f069b4a5e9659ca4068404()" />
+<Entry OldName="Magnifier.InterceptKeys.UnHookAll()" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c7d6fd16990246cf69d6bbb22f6350e92()" />
+<Entry OldName="Magnifier.InterceptKeys.SetHook(LowLevelKeyboardProc proc)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c58a1871e0526577e5595a380ce654920(cb784b9a264675ee176cddee0d0d31df0 c7534fd7dd696b5aeaa2c5be6803c08dc)" />
+<Entry OldName="Magnifier.InterceptKeys.SendNumLock()" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ca4a2b1debee01ac8cbf53051623d24e7()" />
+<Entry OldName="Magnifier.InterceptKeys.HookCallback(Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParamRef)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c0e24e7d9f4b2945ec9042fbfcafeff22(Int32 cbb1dbf70b0f06ba4b35a8e59e54bb1d4, IntPtr cd832e052c8d0d3b63be346483ea769c3, c6aa60c268b6089a2b0eacdf1e146c9a9&amp; cc710984a6b6b35128bb270482f6de4c8)" />
+<Entry OldName="Magnifier.InterceptKeys.SetWindowsHookEx(Int32 idHook, LowLevelKeyboardProc lpfn, IntPtr hMod, UInt32 dwThreadId)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c5b6218d84b6bc9012584dcb2738e614e(Int32 c77041be3b52ad0b7e05898ff37a22f79, cb784b9a264675ee176cddee0d0d31df0 c7bbb1f6fe5e388751b741fe2a1576ee3, IntPtr cb17b81464f63e669058453d27c775e44, UInt32 c1168d30dd3708520c148db4737107f21)" />
+<Entry OldName="Magnifier.InterceptKeys.UnhookWindowsHookEx(IntPtr hhk)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c8905dbac997a1e6a053fc0d98f30e314(IntPtr c93962a29256fefdc0043432c2758bc3a)" />
+<Entry OldName="Magnifier.InterceptKeys.CallNextHookEx(IntPtr hhk, Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParamRef)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.c944a2943fa6819f6c81b13e8b764492c(IntPtr c93962a29256fefdc0043432c2758bc3a, Int32 cbb1dbf70b0f06ba4b35a8e59e54bb1d4, IntPtr cd832e052c8d0d3b63be346483ea769c3, c6aa60c268b6089a2b0eacdf1e146c9a9&amp; cc710984a6b6b35128bb270482f6de4c8)" />
+<Entry OldName="Magnifier.InterceptKeys.GetModuleHandle(String lpModuleName)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.ceb4476fac53ffaae428a64014d069467(String cd1cccb1231807c2066ba64fd93a0c496)" />
+<Entry OldName="Magnifier.InterceptMouse.SetWindowsHookEx(Int32 idHook, LowLevelMouseProc lpfn, IntPtr hMod, UInt32 dwThreadId)" NewName="Magnifier.InterceptMouse.c5b6218d84b6bc9012584dcb2738e614e(Int32 c77041be3b52ad0b7e05898ff37a22f79, LowLevelMouseProc c7bbb1f6fe5e388751b741fe2a1576ee3, IntPtr cb17b81464f63e669058453d27c775e44, UInt32 c1168d30dd3708520c148db4737107f21)" />
+<Entry OldName="Magnifier.InterceptMouse.UnhookWindowsHookEx(IntPtr hhk)" NewName="Magnifier.InterceptMouse.c8905dbac997a1e6a053fc0d98f30e314(IntPtr c93962a29256fefdc0043432c2758bc3a)" />
+<Entry OldName="Magnifier.InterceptMouse.CallNextHookEx(IntPtr hhk, Int32 nCode, IntPtr wParam, IntPtr lParam)" NewName="Magnifier.InterceptMouse.c944a2943fa6819f6c81b13e8b764492c(IntPtr c93962a29256fefdc0043432c2758bc3a, Int32 cbb1dbf70b0f06ba4b35a8e59e54bb1d4, IntPtr cd832e052c8d0d3b63be346483ea769c3, IntPtr cc686cb91c52070629d3892b4014395ea)" />
+<Entry OldName="Magnifier.InterceptMouse.GetModuleHandle(String lpModuleName)" NewName="Magnifier.InterceptMouse.ceb4476fac53ffaae428a64014d069467(String cd1cccb1231807c2066ba64fd93a0c496)" />
+<Entry OldName="Magnifier.Module..ctor()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1..ctor()" />
+<Entry OldName="Magnifier.Module..cctor()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1..cctor()" />
+<Entry OldName="Magnifier.Module.get_TempFolder()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.get_cebdeb2fadefc68f286cb34fe06f4e6db()" />
+<Entry OldName="Magnifier.Module.set_TempFolder(String value)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.set_cebdeb2fadefc68f286cb34fe06f4e6db(String cd85b4cce265240fbb1ee2f3d5e747933)" />
+<Entry OldName="Magnifier.Module.get_ProfilesFile()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.get_ce4c3a7871d86177a045b3fda7401a4a9()" />
+<Entry OldName="Magnifier.Module.get_VideoOptionsFile()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.get_c2e71e5a46f8752251871c5e4980b9e12()" />
+<Entry OldName="Magnifier.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c481835f9c6ad147b8e5917b052493159(IntPtr c6c4c588c7892a50979074305be0a11e8, Int32 c549cacb4235516659f54dc89f594d869, Int32 cd832e052c8d0d3b63be346483ea769c3, Int32 cc686cb91c52070629d3892b4014395ea)" />
+<Entry OldName="Magnifier.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cca5d1e2cd3efbe4d36ba2c20cd4c537b(IntPtr c7b1f7bb0425926f28bf52665f888bd05)" />
+<Entry OldName="Magnifier.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c064c1ca28e4611342ee8f2eb366ea605(Int32 c525e8972ea7922a411a396c6c4490549)" />
+<Entry OldName="Magnifier.Module.IsLegalFilename(String name)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c42e854bb5ca3cce4cf4b90ecb579d893(String c96ed8c1b1eed4c02a79b33fad81c4ff2)" />
+<Entry OldName="Magnifier.Module.ImageFromFile(String path)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c93234b37c151e4597859239afb187dd6(String c20d9b861fae0a3075f641ec2f9ec720c)" />
+<Entry OldName="Magnifier.Module.RunAdminAction(String args)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c4d4683f984bae1e05cc8774e70a62306(String c9813aadb81ef83bcc035a21548ade7a6)" />
+<Entry OldName="Magnifier.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.ccf3a6327371fac181a95f920ffee8d07(String cdc51dac20475db539ebed4b845f89515, String c96665d252cc67e05f3c80073b281f6c7)" />
+<Entry OldName="Magnifier.Module.ShowMessage(String msg)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c6797cfd1ee7eb0d6506e461b64490803(String cd35f4cd5937d9013b985bbeaa0c32c93)" />
+<Entry OldName="Magnifier.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c0352fbc414e44107daca16dee71b320d(String cd35f4cd5937d9013b985bbeaa0c32c93, String c89e8bd062d5d1160f93719ceeda34fc5)" />
+<Entry OldName="Magnifier.Module.ShowError(Exception ex)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.ce5ffd4fe61b42e05369e64466b825fea(Exception ce43fea6da63b3e38d804818e33c43aa8)" />
+<Entry OldName="Magnifier.Module.ShowError(String msg)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.ce5ffd4fe61b42e05369e64466b825fea(String cd35f4cd5937d9013b985bbeaa0c32c93)" />
+<Entry OldName="Magnifier.Module.ShowError(String msg, Exception ex)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.ce5ffd4fe61b42e05369e64466b825fea(String cd35f4cd5937d9013b985bbeaa0c32c93, Exception ce43fea6da63b3e38d804818e33c43aa8)" />
+<Entry OldName="Magnifier.Module.ShowError(String msg, String exstr)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.ce5ffd4fe61b42e05369e64466b825fea(String cd35f4cd5937d9013b985bbeaa0c32c93, String cb4e0d3e151a9e99e1e87ef1e9f171759)" />
+<Entry OldName="Magnifier.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c326085a3d06210f7077f5c54f0a5a196(Object cd9a0aa81c52e6055b5e3bd5567d27814, EventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c3650b639cbaff0320ff0cb854d47fef6(String cd35f4cd5937d9013b985bbeaa0c32c93, String c89e8bd062d5d1160f93719ceeda34fc5)" />
+<Entry OldName="Magnifier.Module.IsAcceptableMediaInput(String filepath)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c0bc7583478b8eeea4fc18dc61c5ab8ba(String c7f43135173cea2522418e393ccab43c1)" />
+<Entry OldName="Magnifier.Module.get_Modex64()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.get_c784405cd84f57c606ad4ae02d18c7843()" />
+<Entry OldName="Magnifier.Module.DownloadPage(String uri)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cd054f917d9901389ce63ca90c0425769(String c6bd6818c722c9aa08214585b57df7b1c)" />
+<Entry OldName="Magnifier.Module.HexConverter(Color c)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c2c49a81d9f4f644a253f405bca11880d(Color cf0276481a728d7fcc7014ad09a11c8f8)" />
+<Entry OldName="Magnifier.Module.DecimalToString(Decimal dec)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c9f2ffa0a123c20ea1a0eff009dc2f201(Decimal c00d0d096cabf9706c295554a64d9cad2)" />
+<Entry OldName="Magnifier.Module.DecimalToString(Decimal dec, Int32 decimal_places)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c9f2ffa0a123c20ea1a0eff009dc2f201(Decimal c00d0d096cabf9706c295554a64d9cad2, Int32 c54434ffa6f842d27ff19e75b1e0ff4b2)" />
+<Entry OldName="Magnifier.Module.StringToDecimal(String str)" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.c10ca0c6bd93f2d31df95157c4694fa29(String c20da3847c5a961f7a26c8a363e40f020)" />
+<Entry OldName="Magnifier.Module.get_IsWindows64Bit()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.get_c833f5b9e802988bb4b44295a32ed33fe()" />
+<Entry OldName="Magnifier.Module.DeleteApplicationSettingsFile()" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1.cb2be6e4f25a0a55c228b4b9e42c4b44e()" />
+<Entry OldName="Magnifier.NiceLine.InitializeComponent()" NewName="Magnifier.NiceLine.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.Program.Main(String[] args)" NewName="A.cf99401f384d172a3165ff1874b37b903.c15d3559e6ab65c70ad027c4656a94b07(String[] c9813aadb81ef83bcc035a21548ade7a6)" />
+<Entry OldName="Magnifier.ResFlags..ctor()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c..ctor()" />
+<Entry OldName="Magnifier.ResFlags.get_ResourceManager()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_ResourceManager()" />
+<Entry OldName="Magnifier.ResFlags.get_Culture()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_Culture()" />
+<Entry OldName="Magnifier.ResFlags.set_Culture(CultureInfo value)" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.set_Culture(CultureInfo value)" />
+<Entry OldName="Magnifier.ResFlags.get_flag_albania()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_albania()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_belarus()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_belarus()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_bulgaria()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_bulgaria()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_china()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_china()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_croatia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_croatia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_czech_republic()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_czech_republic()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_denmark()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_denmark()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_estonia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_estonia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_finland()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_finland()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_france()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_france()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_georgia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_georgia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_germany()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_germany()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_great_britain()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_great_britain()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_greece()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_greece()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_hungary()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_hungary()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_iceland()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_iceland()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_india()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_india()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_indonesia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_indonesia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_iran()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_iran()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_ireland()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_ireland()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_israel()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_israel()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_italy()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_italy()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_japan()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_japan()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_kenya()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_kenya()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_latvia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_latvia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_lithuania()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_lithuania()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_netherlands()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_netherlands()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_norway()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_norway()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_pakistan()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_pakistan()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_philippines()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_philippines()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_poland()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_poland()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_portugal()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_portugal()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_romania()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_romania()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_russia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_russia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_saudi_arabia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_saudi_arabia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_serbia_montenegro()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_serbia_montenegro()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_slovakia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_slovakia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_slovenia()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_slovenia()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_south_africa()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_south_africa()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_south_korea()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_south_korea()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_spain()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_spain()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_sweden()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_sweden()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_taiwan()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_taiwan()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_thailand()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_thailand()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_turkey()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_turkey()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_ukraine()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_ukraine()" />
+<Entry OldName="Magnifier.ResFlags.get_flag_vietnam()" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c.get_flag_vietnam()" />
+<Entry OldName="Magnifier.ResTranslate..ctor()" NewName="A.c191337fd6693f27a966cd8bc1ec33c51..ctor()" />
+<Entry OldName="Magnifier.ResTranslate.get_ResourceManager()" NewName="A.c191337fd6693f27a966cd8bc1ec33c51.get_ResourceManager()" />
+<Entry OldName="Magnifier.ResTranslate.get_Culture()" NewName="A.c191337fd6693f27a966cd8bc1ec33c51.get_Culture()" />
+<Entry OldName="Magnifier.ResTranslate.set_Culture(CultureInfo value)" NewName="A.c191337fd6693f27a966cd8bc1ec33c51.set_Culture(CultureInfo value)" />
+<Entry OldName="Magnifier.TranslateHelper..ctor()" NewName="A.c9fe964147ccf4875908926fbc64c2022..ctor()" />
+<Entry OldName="Magnifier.TranslateHelper..cctor()" NewName="A.c9fe964147ccf4875908926fbc64c2022..cctor()" />
+<Entry OldName="Magnifier.TranslateHelper.Translate(String str)" NewName="A.c9fe964147ccf4875908926fbc64c2022.c0a8e6064fe40b6abf56c8bac2707f2f1(String c20da3847c5a961f7a26c8a363e40f020)" />
+<Entry OldName="Magnifier.ucTextProgressBar.InitializeComponent()" NewName="Magnifier.ucTextProgressBar.cd74a67d662e3aea56071d5a7153a1f68()" />
+<Entry OldName="Magnifier.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="Magnifier.UpdateHelper.c221d9e2659e3f968a898724630d65eb6(Object cd9a0aa81c52e6055b5e3bd5567d27814, ProgressChangedEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="Magnifier.UpdateHelper.caa44b7e38858a40a3d8275033d588e79(Object cd9a0aa81c52e6055b5e3bd5567d27814, RunWorkerCompletedEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="Magnifier.UpdateHelper.cbb16307b3a936046d437d024e987f828(Object cd9a0aa81c52e6055b5e3bd5567d27814, DoWorkEventArgs c19c5e4eeeefc43d7295344673c02dd67)" />
+<Entry OldName="Magnifier.Win32Stuff..ctor()" NewName="A.cf45a400b460e02e901dbf979526dbe22..ctor()" />
+<Entry OldName="Magnifier.Win32Stuff.GetDesktopWindow()" NewName="A.cf45a400b460e02e901dbf979526dbe22.c77fd48d34f57d2b8c6b0cc2febbaaac6()" />
+<Entry OldName="Magnifier.Win32Stuff.GetDC(IntPtr ptr)" NewName="A.cf45a400b460e02e901dbf979526dbe22.c1b358abb25c4536f1562c77ce33d9171(IntPtr ce41dfe4727397656a8114254e30ba02f)" />
+<Entry OldName="Magnifier.Win32Stuff.GetSystemMetrics(Int32 abc)" NewName="A.cf45a400b460e02e901dbf979526dbe22.cdbb4d9c9106180716fbc3da62f3fa608(Int32 c63da5ca2942cd5900325a0cb331715b0)" />
+<Entry OldName="Magnifier.Win32Stuff.GetWindowDC(IntPtr ptr)" NewName="A.cf45a400b460e02e901dbf979526dbe22.c13c5dcd04a7ce92df1f90b522b7c5fce(IntPtr ce41dfe4727397656a8114254e30ba02f)" />
+<Entry OldName="Magnifier.Win32Stuff.ReleaseDC(IntPtr hWnd, IntPtr hDc)" NewName="A.cf45a400b460e02e901dbf979526dbe22.c450006c99f187f294450f926b88fe517(IntPtr c6c4c588c7892a50979074305be0a11e8, IntPtr c2cf40446b70b090462ef6c9c4b100684)" />
+<Entry OldName="Magnifier.Win32Stuff.GetCursor()" NewName="A.cf45a400b460e02e901dbf979526dbe22.c442aef15d5ca80a9c218355af4f5a9d8()" />
+<Entry OldName="Magnifier.Win32Stuff.GetCursorInfo(CURSORINFO&amp; pci)" NewName="A.cf45a400b460e02e901dbf979526dbe22.cfa0d5a33b46f01375c0d63c7057aa5ee(c37e1a66ce3ce049490f1c42aa70c14b8&amp; cfb9013cc88ea9acf01fd3aa486f9441f)" />
+<Entry OldName="Magnifier.Win32Stuff.CopyIcon(IntPtr hIcon)" NewName="A.cf45a400b460e02e901dbf979526dbe22.ca9539be30954be8ee0d26b1f26960c99(IntPtr c3d45aa500ef2895614371611489f0e2f)" />
+<Entry OldName="Magnifier.Win32Stuff.DestroyIcon(IntPtr hIcon)" NewName="A.cf45a400b460e02e901dbf979526dbe22.cc4285f4c0654e5f830d34c30d16bb525(IntPtr c3d45aa500ef2895614371611489f0e2f)" />
+<Entry OldName="Magnifier.Win32Stuff.GetIconInfo(IntPtr hIcon, ICONINFO&amp; piconinfo)" NewName="A.cf45a400b460e02e901dbf979526dbe22.c93c419179587785d4e7c1ba45085be65(IntPtr c3d45aa500ef2895614371611489f0e2f, cd1617a6a374eba03decb80fbbcd0e709&amp; c8914a4024219d68daa54acffb427351a)" />
+<Entry OldName="Magnifier.Win32Stuff.DrawIconEx(IntPtr hdc, Int32 xLeft, Int32 yTop, IntPtr hIcon, Int32 cxWidth, Int32 cyHeight, Int32 istepIfAniCur, IntPtr hbrFlickerFreeDraw, Int32 diFlags)" NewName="A.cf45a400b460e02e901dbf979526dbe22.c34500fba5168776ff19a9b82e64786ce(IntPtr c4b2f009c6f7cdc29c2ac0b9f7e98fba1, Int32 ce0c1e98bc894ad4ce5016e266cffd9e0, Int32 c0efe296dbbefde6539dec7422ced2fe6, IntPtr c3d45aa500ef2895614371611489f0e2f, Int32 c0eb7b8b0bd73d777ea61818b2a844df7, Int32 c4e6c7aa674325d1e3a3ef9c84f8bbfb3, Int32 c13eb739d40e7c3508439d4ba251acf97, IntPtr c820a8a1d5dc8d85957797c4435ddb9ff, Int32 cb5e48fd51b2c9282540e71830c93cd55)" />
+<Entry OldName="Magnifier.Properties.Resources..ctor()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f..ctor()" />
+<Entry OldName="Magnifier.Properties.Resources.get_ResourceManager()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_ResourceManager()" />
+<Entry OldName="Magnifier.Properties.Resources.get_Culture()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_Culture()" />
+<Entry OldName="Magnifier.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.set_Culture(CultureInfo value)" />
+<Entry OldName="Magnifier.Properties.Resources.get__4dots_logo_official()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get__4dots_logo_official()" />
+<Entry OldName="Magnifier.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get__4dots_logo_official_icon()" />
+<Entry OldName="Magnifier.Properties.Resources.get_about()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_about()" />
+<Entry OldName="Magnifier.Properties.Resources.get_add()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_add()" />
+<Entry OldName="Magnifier.Properties.Resources.get_add1()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_add1()" />
+<Entry OldName="Magnifier.Properties.Resources.get_arrow_down_green()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_arrow_down_green()" />
+<Entry OldName="Magnifier.Properties.Resources.get_arrow_left_blue()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_arrow_left_blue()" />
+<Entry OldName="Magnifier.Properties.Resources.get_arrow_right_blue()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_arrow_right_blue()" />
+<Entry OldName="Magnifier.Properties.Resources.get_arrow_up_green()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_arrow_up_green()" />
+<Entry OldName="Magnifier.Properties.Resources.get_brush2()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_brush2()" />
+<Entry OldName="Magnifier.Properties.Resources.get_brush4()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_brush4()" />
+<Entry OldName="Magnifier.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_bullet_ball_glass_blue()" />
+<Entry OldName="Magnifier.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="Magnifier.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_bullet_ball_glass_green()" />
+<Entry OldName="Magnifier.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_bullet_ball_glass_red()" />
+<Entry OldName="Magnifier.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_bullet_ball_glass_yellow()" />
+<Entry OldName="Magnifier.Properties.Resources.get_cart_icon_b_24()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_cart_icon_b_24()" />
+<Entry OldName="Magnifier.Properties.Resources.get_check()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_check()" />
+<Entry OldName="Magnifier.Properties.Resources.get_copy()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_copy()" />
+<Entry OldName="Magnifier.Properties.Resources.get_cut()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_cut()" />
+<Entry OldName="Magnifier.Properties.Resources.get_delete()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_delete()" />
+<Entry OldName="Magnifier.Properties.Resources.get_delete1()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_delete1()" />
+<Entry OldName="Magnifier.Properties.Resources.get_disk_blue()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_disk_blue()" />
+<Entry OldName="Magnifier.Properties.Resources.get_document_into()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_document_into()" />
+<Entry OldName="Magnifier.Properties.Resources.get_document_preferences()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_document_preferences()" />
+<Entry OldName="Magnifier.Properties.Resources.get_earth()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_earth()" />
+<Entry OldName="Magnifier.Properties.Resources.get_edit()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_edit()" />
+<Entry OldName="Magnifier.Properties.Resources.get_exit()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_exit()" />
+<Entry OldName="Magnifier.Properties.Resources.get_exit1()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_exit1()" />
+<Entry OldName="Magnifier.Properties.Resources.get_facebook_24()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_facebook_24()" />
+<Entry OldName="Magnifier.Properties.Resources.get_facebook_32()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_facebook_32()" />
+<Entry OldName="Magnifier.Properties.Resources.get_flash()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_flash()" />
+<Entry OldName="Magnifier.Properties.Resources.get_flash1()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_flash1()" />
+<Entry OldName="Magnifier.Properties.Resources.get_folder()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_folder()" />
+<Entry OldName="Magnifier.Properties.Resources.get_folder_add()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_folder_add()" />
+<Entry OldName="Magnifier.Properties.Resources.get_folder1()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_folder1()" />
+<Entry OldName="Magnifier.Properties.Resources.get_googleplus_24()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_googleplus_24()" />
+<Entry OldName="Magnifier.Properties.Resources.get_help2()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_help2()" />
+<Entry OldName="Magnifier.Properties.Resources.get_import1()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_import1()" />
+<Entry OldName="Magnifier.Properties.Resources.get_information()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_information()" />
+<Entry OldName="Magnifier.Properties.Resources.get_key1()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_key1()" />
+<Entry OldName="Magnifier.Properties.Resources.get_linkedin_24()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_linkedin_24()" />
+<Entry OldName="Magnifier.Properties.Resources.get_magnifier_48()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_magnifier_48()" />
+<Entry OldName="Magnifier.Properties.Resources.get_mail()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_mail()" />
+<Entry OldName="Magnifier.Properties.Resources.get_media_pause()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_media_pause()" />
+<Entry OldName="Magnifier.Properties.Resources.get_media_stop()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_media_stop()" />
+<Entry OldName="Magnifier.Properties.Resources.get_navigate_beginning()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_navigate_beginning()" />
+<Entry OldName="Magnifier.Properties.Resources.get_navigate_end()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_navigate_end()" />
+<Entry OldName="Magnifier.Properties.Resources.get_preferences()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_preferences()" />
+<Entry OldName="Magnifier.Properties.Resources.get_twitter_24()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_twitter_24()" />
+<Entry OldName="Magnifier.Properties.Resources.get_twitter_32()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_twitter_32()" />
+<Entry OldName="Magnifier.Properties.Resources.get_warning()" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f.get_warning()" />
+<Entry OldName="Magnifier.InterceptKeys.LowLevelKeyboardProc..ctor(Object object, IntPtr method)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cb784b9a264675ee176cddee0d0d31df0..ctor(Object object, IntPtr method)" />
+<Entry OldName="Magnifier.InterceptKeys.LowLevelKeyboardProc.Invoke(Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParam)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cb784b9a264675ee176cddee0d0d31df0.Invoke(Int32 nCode, IntPtr wParam, c6aa60c268b6089a2b0eacdf1e146c9a9&amp; lParam)" />
+<Entry OldName="Magnifier.InterceptKeys.LowLevelKeyboardProc.BeginInvoke(Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParam, AsyncCallback callback, Object object)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cb784b9a264675ee176cddee0d0d31df0.BeginInvoke(Int32 nCode, IntPtr wParam, c6aa60c268b6089a2b0eacdf1e146c9a9&amp; lParam, AsyncCallback callback, Object object)" />
+<Entry OldName="Magnifier.InterceptKeys.LowLevelKeyboardProc.EndInvoke(KBDLLHOOKSTRUCT&amp; lParam, IAsyncResult result)" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4.cb784b9a264675ee176cddee0d0d31df0.EndInvoke(c6aa60c268b6089a2b0eacdf1e146c9a9&amp; lParam, IAsyncResult result)" />
+<Entry OldName="Magnifier.CaptureScreen+SIZE" NewName="A.cbddd19a165a310f54b7344005cee4748+c1721863522b716c485298d65285e261d" />
+<Entry OldName="Magnifier.CaptureScreen+CURSORINFO" NewName="A.cbddd19a165a310f54b7344005cee4748+c12369cbabf8271c2cd4d9f7830de2627" />
+<Entry OldName="Magnifier.CaptureScreen+POINTAPI" NewName="A.cbddd19a165a310f54b7344005cee4748+c2ab94770772152fbcb97c254baf5849e" />
+<Entry OldName="Magnifier.CaptureScreen" NewName="A.cbddd19a165a310f54b7344005cee4748" />
+<Entry OldName="Magnifier.ExceptionHandlersHelper" NewName="A.c304823c426602519046eeadf89168dc6" />
+<Entry OldName="Magnifier.GDIStuff" NewName="A.c704e92f23862d23c482f97993d6a39fe" />
+<Entry OldName="Magnifier.ImageComboBox" NewName="A.c4095499ff93ac21a37059bea2f2d93c6" />
+<Entry OldName="Magnifier.ComboBoxExItem" NewName="A.cf758073387e73f7a4422c7e90adf18cc" />
+<Entry OldName="Magnifier.InterceptKeys+KBDLLHOOKSTRUCT" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4+c6aa60c268b6089a2b0eacdf1e146c9a9" />
+<Entry OldName="Magnifier.InterceptKeys+LowLevelKeyboardProc" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4+cb784b9a264675ee176cddee0d0d31df0" />
+<Entry OldName="Magnifier.InterceptKeys" NewName="A.c8057d65c60850b12c37bc75e8a7a05f4" />
+<Entry OldName="Magnifier.Module" NewName="A.c61b2a355de6b1a37eb1e49dca8f6e3b1" />
+<Entry OldName="Magnifier.Program" NewName="A.cf99401f384d172a3165ff1874b37b903" />
+<Entry OldName="Magnifier.ResFlags" NewName="A.c4bc0f7317e5577a0a0561d8f8d84f88c" />
+<Entry OldName="Magnifier.ResTranslate" NewName="A.c191337fd6693f27a966cd8bc1ec33c51" />
+<Entry OldName="Magnifier.TranslateHelper" NewName="A.c9fe964147ccf4875908926fbc64c2022" />
+<Entry OldName="Magnifier.Win32Stuff+ICONINFO" NewName="A.cf45a400b460e02e901dbf979526dbe22+cd1617a6a374eba03decb80fbbcd0e709" />
+<Entry OldName="Magnifier.Win32Stuff+POINT" NewName="A.cf45a400b460e02e901dbf979526dbe22+cadf5ecfa5b2b2014df882ab79e8abeb9" />
+<Entry OldName="Magnifier.Win32Stuff+CURSORINFO" NewName="A.cf45a400b460e02e901dbf979526dbe22+c37e1a66ce3ce049490f1c42aa70c14b8" />
+<Entry OldName="Magnifier.Win32Stuff" NewName="A.cf45a400b460e02e901dbf979526dbe22" />
+<Entry OldName="Magnifier.Properties.Resources" NewName="A.c729cbbfcc020fd0cb9222ac1b790187f" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;+__StaticArrayInitTypeSize=16" NewName="A.ce48ae05ec3f2e054aa6834c35a5ffae7+cdd082f311396f6638b260815855ca2af" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;" NewName="A.ce48ae05ec3f2e054aa6834c35a5ffae7" />
+<Assembly Name="Magnifier"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Magnifier.CaptureScreen" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="CaptureDesktop" Variables="size;hBitmap;hDC;hMemDC;V_4;hOld;bmp;V_7;" ParamCnt="0" />
+<Method Token="100663301" Name="IsCursorDifferent" Variables="cursorInfo;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663302" Name="CaptureImageCursor" Variables="point;scale;cursorInfo;hicon;iconInfo;icon;V_4;V_5;V_6;V_7;V_8;maskBitmap;V_10;final;hDesktop;dcDesktop;resultGraphics;resultHdc;offsetX;offsetY;ex;" ParamCnt="2" />
+<Method Token="100663303" Name="CaptureImageCursor2" Variables="point;scale;cursorInfo;hicon;iconInfo;retFinal;V_4;V_5;V_6;V_7;V_8;maskBitmap;V_10;final;hDesktop;dcDesktop;resultGraphics;resultHdc;offsetX;offsetY;icon;ex;" ParamCnt="2" />
+<Method Token="100663304" Name="GetCursorInfo" Variables="pci;" ParamCnt="1" />
+<Method Token="100663305" Name="DrawIconEx" Variables="hdc;xLeft;yTop;hIcon;cxWidth;cyHeight;istepIfAniCur;hbrFlickerFreeDraw;diFlags;" ParamCnt="9" />
+<Method Token="100663306" Name="CaptureCursor3" Variables="position;cursorInfo;hicon;iconInfo;icon;bmp1;V_5;V_6;V_7;V_8;V_9;maskBitmap;V_11;cursor;BLACK;WHITE;y;x;maskPixel;cursorPixel;V_19;V_20;V_21;V_22;" ParamCnt="1" />
+<Method Token="100663307" Name="CaptureImageCursor2" Variables="x;y;cursorInfo;hicon;iconInfo;point;final;icon;bmp2;V_7;V_8;V_9;V_10;V_11;maskBitmap;V_13;hDesktop;dcDesktop;resultGraphics;resultHdc;ex;" ParamCnt="2" />
+<Method Token="100663308" Name="CaptureCursor" Variables="x;y;bmp;hicon;ci;icInfo;V_4;V_5;V_6;ic;V_8;" ParamCnt="2" />
+<Method Token="100663309" Name="CaptureDesktopWithCursor" Variables="cursorX;cursorY;desktopBMP;cursorBMP;finalBMP;g;r;V_7;V_8;V_9;" ParamCnt="0" />
+<Field Token="67108865" Name="LastCursor" />
+<Field Token="67108866" Name="CURSOR_SHOWING" />
+<Field Token="67108867" Name="DI_NORMAL" />
+<Type Token="33554436" Name="Magnifier.CustomForm" />
+<Method Token="100663311" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663312" Name="OnResize" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663313" Name="OnPaintBackground" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663314" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663315" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663316" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663317" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108868" Name="LoadComplete" />
+<Field Token="67108869" Name="components" />
+<Type Token="33554437" Name="Magnifier.ExceptionHandlersHelper" />
+<Method Token="100663318" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663319" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663320" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663321" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554439" Name="Magnifier.frmLanguage" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663330" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663331" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663332" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663333" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663334" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;V_7;V_8;V_9;V_10;V_11;V_12;fl;V_14;V_15;V_16;ex;" ParamCnt="0" />
+<Method Token="100663335" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663336" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108871" Name="LangCodes" />
+<Field Token="67108872" Name="LangDesc" />
+<Field Token="67108873" Name="LangImg" />
+<Field Token="67108874" Name="SelectedLanguageCode" />
+<Field Token="67108875" Name="LangURL" />
+<Field Token="67108876" Name="RegKeyName" />
+<Field Token="67108877" Name="components" />
+<Field Token="67108878" Name="label1" />
+<Field Token="67108879" Name="cmbLanguage" />
+<Field Token="67108880" Name="btnOK" />
+<Type Token="33554440" Name="Magnifier.frmMain" />
+<Method Token="100663337" Name=".ctor" Variables="this;fst;V_1;fs;V_3;fs2;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663338" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663339" Name="SpecifyAreas" Variables="this;fs;V_1;fs2;V_3;" ParamCnt="1" />
+<Method Token="100663340" Name="FixRects" Variables="this;" ParamCnt="1" />
+<Method Token="100663341" Name="frmMain_MouseMove" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;" ParamCnt="3" />
+<Method Token="100663342" Name="frmMain_MouseDown" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663343" Name="frmMain_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663345" Name="frmMain_Paint" Variables="this;sender;e;p;d1;d2;d;de;dd1;dd2;dh;ih;dw;iw;Handle2Size;V_12;V_13;V_14;g;V_16;sbcc;color_different;V_19;V_20;V_21;V_22;V_23;" ParamCnt="3" />
+<Method Token="100663346" Name="frmMain_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663347" Name="timMagnify_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663348" Name="frmMain_Move" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663349" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663350" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108881" Name="rect1" />
+<Field Token="67108882" Name="rect2" />
+<Field Token="67108883" Name="rect3" />
+<Field Token="67108884" Name="rect4" />
+<Field Token="67108885" Name="rect5" />
+<Field Token="67108886" Name="rect6" />
+<Field Token="67108887" Name="rect7" />
+<Field Token="67108888" Name="rect8" />
+<Field Token="67108889" Name="PreviousX" />
+<Field Token="67108890" Name="PreviousY" />
+<Field Token="67108891" Name="PickStyle" />
+<Field Token="67108892" Name="IsMouseDown" />
+<Field Token="67108893" Name="InMouseMove" />
+<Field Token="67108894" Name="MouseDownX" />
+<Field Token="67108895" Name="MouseDownY" />
+<Field Token="67108896" Name="HandleSize" />
+<Field Token="67108897" Name="f2Width" />
+<Field Token="67108898" Name="f2Height" />
+<Field Token="67108899" Name="f2Left" />
+<Field Token="67108900" Name="f2Top" />
+<Field Token="67108901" Name="Instance" />
+<Field Token="67108902" Name="InitCursor" />
+<Field Token="67108903" Name="sbCircle" />
+<Field Token="67108904" Name="sbCircleColor" />
+<Field Token="67108905" Name="bmp1" />
+<Field Token="67108906" Name="cursorImage" />
+<Field Token="67108907" Name="Test" />
+<Field Token="67108908" Name="components" />
+<Field Token="67108909" Name="timMagnify" />
+<Type Token="33554441" Name="Magnifier.frmAbout" />
+<Method Token="100663351" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663352" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663353" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663356" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663358" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108910" Name="lblf" />
+<Field Token="67108911" Name="bufluf" />
+<Field Token="67108912" Name="lstbufluf" />
+<Field Token="67108913" Name="LDT" />
+<Field Token="67108914" Name="components" />
+<Field Token="67108915" Name="lblAbout" />
+<Field Token="67108916" Name="btnClose" />
+<Field Token="67108917" Name="pictureBox1" />
+<Field Token="67108918" Name="linkLabel1" />
+<Field Token="67108919" Name="label1" />
+<Field Token="67108920" Name="label2" />
+<Field Token="67108921" Name="linkLabel2" />
+<Field Token="67108922" Name="niceLine1" />
+<Field Token="67108923" Name="niceLine3" />
+<Field Token="67108924" Name="label3" />
+<Field Token="67108925" Name="ullProductWebpage" />
+<Field Token="67108926" Name="lblRegistered" />
+<Field Token="67108927" Name="niceLine2" />
+<Field Token="67108928" Name="niceLine4" />
+<Type Token="33554442" Name="Magnifier.frmDownloadUpdate" />
+<Method Token="100663359" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663360" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663361" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663362" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663363" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663364" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663365" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663366" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663367" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663368" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108929" Name="_DownloadFile" />
+<Field Token="67108930" Name="client" />
+<Field Token="67108931" Name="Cancelled" />
+<Field Token="67108932" Name="components" />
+<Field Token="67108933" Name="pgBar" />
+<Field Token="67108934" Name="btnCancelDownload" />
+<Field Token="67108935" Name="bwDownload" />
+<Field Token="67108936" Name="label1" />
+<Field Token="67108937" Name="lblTotalSize" />
+<Type Token="33554443" Name="Magnifier.frmSelectArea" />
+<Method Token="100663369" Name=".ctor" Variables="this;first;w;h;bw;V_3;k;V_5;V_6;" ParamCnt="2" />
+<Method Token="100663370" Name="frmSelectArea_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663371" Name="FixRects" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name="frmSelectArea_MouseMove" Variables="this;sender;e;V_0;V_1;p;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;difx;dify;p;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;" ParamCnt="3" />
+<Method Token="100663373" Name="frmSelectArea_Paint" Variables="this;sender;e;fs;txt;lbl1;lbl2;lbl3;lbl4;lbl;sz;szlbl;szl1;szl2;szl3;szl4;strformat;szbuf;path;pen;brush;x50;y25;pathlbl1;penlbl;brushlbl;pathlbl2;pathlbl3;pathlbl4;V_26;" ParamCnt="3" />
+<Method Token="100663374" Name="frmSelectArea_MouseDown" Variables="this;sender;e;V_0;p;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663375" Name="frmSelectArea_MouseUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="frmSelectArea_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663377" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663378" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663379" Name="nudX_ValueChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663380" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663381" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108938" Name="rect1" />
+<Field Token="67108939" Name="rect2" />
+<Field Token="67108940" Name="rect3" />
+<Field Token="67108941" Name="rect4" />
+<Field Token="67108942" Name="rect5" />
+<Field Token="67108943" Name="rect6" />
+<Field Token="67108944" Name="rect7" />
+<Field Token="67108945" Name="rect8" />
+<Field Token="67108946" Name="rect9" />
+<Field Token="67108947" Name="rect10" />
+<Field Token="67108948" Name="rect11" />
+<Field Token="67108949" Name="rect12" />
+<Field Token="67108950" Name="PreviousX" />
+<Field Token="67108951" Name="PreviousY" />
+<Field Token="67108952" Name="PickStyle" />
+<Field Token="67108953" Name="IsMouseDown" />
+<Field Token="67108954" Name="InMouseMove" />
+<Field Token="67108955" Name="MouseDownX" />
+<Field Token="67108956" Name="MouseDownY" />
+<Field Token="67108957" Name="HandleSize" />
+<Field Token="67108958" Name="fWidth" />
+<Field Token="67108959" Name="fHeight" />
+<Field Token="67108960" Name="fLeft" />
+<Field Token="67108961" Name="fTop" />
+<Field Token="67108962" Name="ChangeValues" />
+<Field Token="67108963" Name="First" />
+<Field Token="67108964" Name="components" />
+<Field Token="67108965" Name="btnOK" />
+<Field Token="67108966" Name="btnCancel" />
+<Field Token="67108967" Name="nudX" />
+<Field Token="67108968" Name="nudY" />
+<Field Token="67108969" Name="nudWidth" />
+<Field Token="67108970" Name="nudHeight" />
+<Type Token="33554444" Name="Magnifier.frmStart" />
+<Method Token="100663382" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663383" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663384" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="SetupOnLoad" Variables="this;" ParamCnt="1" />
+<Method Token="100663386" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663387" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663388" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663389" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663390" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663391" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663392" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663393" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663394" Name="exitToolStripMenuItem_Click_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663395" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663396" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663397" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663398" Name="frmStart_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663399" Name="magnificationAreaShouldFollowMouseCursorMovementToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663400" Name="frmStart_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663401" Name="highlightMouseCursorToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663402" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663403" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108971" Name="InChangeLanguage" />
+<Field Token="67108972" Name="components" />
+<Field Token="67108973" Name="label1" />
+<Field Token="67108974" Name="btnOK" />
+<Field Token="67108975" Name="menuStrip1" />
+<Field Token="67108976" Name="fileToolStripMenuItem" />
+<Field Token="67108977" Name="exitToolStripMenuItem" />
+<Field Token="67108978" Name="optionsToolStripMenuItem" />
+<Field Token="67108979" Name="languageToolStripMenuItem" />
+<Field Token="67108980" Name="languages1ToolStripMenuItem" />
+<Field Token="67108981" Name="languages2ToolStripMenuItem" />
+<Field Token="67108982" Name="buyToolStripMenuItem" />
+<Field Token="67108983" Name="buyApplicationToolStripMenuItem" />
+<Field Token="67108984" Name="enterLicenseKeyToolStripMenuItem" />
+<Field Token="67108985" Name="helpToolStripMenuItem" />
+<Field Token="67108986" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108987" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108988" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108989" Name="tiHelpFeedback" />
+<Field Token="67108990" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108991" Name="toolStripMenuItem1" />
+<Field Token="67108992" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108993" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108994" Name="aboutToolStripMenuItem" />
+<Field Token="67108995" Name="magnificationAreaShouldFollowMouseCursorMovementToolStripMenuItem" />
+<Field Token="67108996" Name="highlightMouseCursorToolStripMenuItem" />
+<Type Token="33554445" Name="Magnifier.GDIStuff" />
+<Method Token="100663404" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663405" Name="CreateDC" Variables="lpszDriver;lpszDevice;lpszOutput;lpInitData;" ParamCnt="4" />
+<Method Token="100663406" Name="DeleteDC" Variables="hDc;" ParamCnt="1" />
+<Method Token="100663407" Name="DeleteObject" Variables="hDc;" ParamCnt="1" />
+<Method Token="100663408" Name="BitBlt" Variables="hdcDest;xDest;yDest;wDest;hDest;hdcSource;xSrc;ySrc;RasterOp;" ParamCnt="9" />
+<Method Token="100663409" Name="CreateCompatibleBitmap" Variables="hdc;nWidth;nHeight;" ParamCnt="3" />
+<Method Token="100663410" Name="CreateCompatibleDC" Variables="hdc;" ParamCnt="1" />
+<Method Token="100663411" Name="SelectObject" Variables="hdc;bmp;" ParamCnt="2" />
+<Field Token="67108997" Name="SRCCOPY" />
+<Type Token="33554446" Name="Magnifier.ImageComboBox" />
+<Method Token="100663412" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663413" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663414" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663415" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67108998" Name="imageList" />
+<Type Token="33554447" Name="Magnifier.ComboBoxExItem" />
+<Method Token="100663416" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663417" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663418" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663419" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663420" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663421" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663422" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663423" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108999" Name="_text" />
+<Field Token="67109000" Name="_imageIndex" />
+<Type Token="33554448" Name="Magnifier.InterceptKeys" />
+<Method Token="100663424" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663425" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663426" Name="SetKeyboardState" Variables="lpKeyState;" ParamCnt="1" />
+<Method Token="100663427" Name="keybd_event" Variables="bVk;bScan;dwFlags;dwExtraInfo;" ParamCnt="4" />
+<Method Token="100663428" Name="GetActiveWindow" Variables="" ParamCnt="0" />
+<Method Token="100663429" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663430" Name="DisableKeys" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663431" Name="UnHookAll" Variables="" ParamCnt="0" />
+<Method Token="100663432" Name="SetHook" Variables="proc;curProcess;curModule;V_2;" ParamCnt="1" />
+<Method Token="100663433" Name="SendNumLock" Variables="" ParamCnt="0" />
+<Method Token="100663434" Name="HookCallback" Variables="nCode;wParam;lParamRef;vkCode;vkCode2;flags;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;vkCode3;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;" ParamCnt="3" />
+<Method Token="100663435" Name="SetWindowsHookEx" Variables="idHook;lpfn;hMod;dwThreadId;" ParamCnt="4" />
+<Method Token="100663436" Name="UnhookWindowsHookEx" Variables="hhk;" ParamCnt="1" />
+<Method Token="100663437" Name="CallNextHookEx" Variables="hhk;nCode;wParam;lParamRef;" ParamCnt="4" />
+<Method Token="100663438" Name="GetModuleHandle" Variables="lpModuleName;" ParamCnt="1" />
+<Field Token="67109001" Name="KEYEVENTF_EXTENDEDKEY" />
+<Field Token="67109002" Name="KEYEVENTF_KEYUP" />
+<Field Token="67109003" Name="NUMLOCK" />
+<Field Token="67109004" Name="CAPITAL" />
+<Field Token="67109005" Name="SCROLL" />
+<Field Token="67109006" Name="INSERT" />
+<Field Token="67109007" Name="WH_KEYBOARD_LL" />
+<Field Token="67109008" Name="WM_KEYDOWN" />
+<Field Token="67109009" Name="WM_KEYUP" />
+<Field Token="67109010" Name="WM_SYSKEYDOWN" />
+<Field Token="67109011" Name="WM_SYSKEYUP" />
+<Field Token="67109012" Name="_proc" />
+<Field Token="67109013" Name="InAddKeyMode" />
+<Field Token="67109014" Name="_hookID" />
+<Field Token="67109015" Name="bShift" />
+<Field Token="67109016" Name="bCtrl" />
+<Field Token="67109017" Name="bAlt" />
+<Field Token="67109018" Name="bAltGr" />
+<Field Token="67109019" Name="bLWin" />
+<Field Token="67109020" Name="bRWin" />
+<Field Token="67109021" Name="Hooked" />
+<Field Token="67109022" Name="HookedForAddKey" />
+<Field Token="67109023" Name="ShouldSendKeys" />
+<Field Token="67109024" Name="HookItems" />
+<Field Token="67109025" Name="bwHookCallbak" />
+<Field Token="67109026" Name="CheckSetHookTimer" />
+<Type Token="33554450" Name="Magnifier.HookItem" />
+<Method Token="100663442" Name=".ctor" Variables="this;_nCode;_wParam;_lParam;" ParamCnt="4" />
+<Field Token="67109028" Name="nCode" />
+<Field Token="67109029" Name="wParam" />
+<Field Token="67109030" Name="lParam" />
+<Type Token="33554451" Name="Magnifier.InterceptMouse" />
+<Method Token="100663443" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663444" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663445" Name="DisableMouse" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663446" Name="UnHookAll" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663447" Name="SetHook" Variables="proc;V_0;" ParamCnt="1" />
+<Method Token="100663448" Name="HookCallback" Variables="nCode;wParam;lParam;V_0;x;y;V_3;V_4;difx;dify;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663449" Name="SetWindowsHookEx" Variables="idHook;lpfn;hMod;dwThreadId;" ParamCnt="4" />
+<Method Token="100663450" Name="UnhookWindowsHookEx" Variables="hhk;" ParamCnt="1" />
+<Method Token="100663451" Name="CallNextHookEx" Variables="hhk;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663452" Name="GetModuleHandle" Variables="lpModuleName;" ParamCnt="1" />
+<Field Token="67109031" Name="_proc" />
+<Field Token="67109032" Name="_hookID" />
+<Field Token="67109033" Name="PreviousX" />
+<Field Token="67109034" Name="PreviousY" />
+<Field Token="67109035" Name="WH_MOUSE_LL" />
+<Type Token="33554452" Name="Magnifier.ExtensionMethods" />
+<Method Token="100663453" Name="LowWord" Variables="number;V_0;" ParamCnt="1" />
+<Method Token="100663454" Name="LowWord" Variables="number;newValue;V_0;" ParamCnt="2" />
+<Method Token="100663455" Name="HighWord" Variables="number;V_0;" ParamCnt="1" />
+<Method Token="100663456" Name="HighWord" Variables="number;newValue;V_0;" ParamCnt="2" />
+<Type Token="33554454" Name="Magnifier.Module" />
+<Method Token="100663464" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663465" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663466" Name="get_TempFolder" Variables="V_0;path;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663467" Name="set_TempFolder" Variables="value;" ParamCnt="1" />
+<Method Token="100663468" Name="get_ProfilesFile" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663469" Name="get_VideoOptionsFile" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663470" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663471" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663472" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663473" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663474" Name="ImageFromFile" Variables="path;bytes;ms;img;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663475" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663476" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663477" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663478" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663479" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663480" Name="ShowError" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663481" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663482" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663483" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663484" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663485" Name="IsAcceptableMediaInput" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663486" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663487" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663488" Name="HexConverter" Variables="c;rtn;V_1;ex;V_3;" ParamCnt="1" />
+<Method Token="100663489" Name="DecimalToString" Variables="dec;V_0;" ParamCnt="1" />
+<Method Token="100663490" Name="DecimalToString" Variables="dec;decimal_places;format;V_1;k;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663491" Name="StringToDecimal" Variables="str;epos;V_1;V_2;V_3;V_4;ihask;sintegral;integral_part;V_8;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;ddecimal_part;ddec;dintegral_part;d;V_19;k;V_21;V_22;" ParamCnt="1" />
+<Method Token="100663492" Name="get_IsWindows64Bit" Variables="p;V_1;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663493" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109042" Name="BlueForeColor" />
+<Field Token="67109043" Name="ApplicationName" />
+<Field Token="67109044" Name="Version" />
+<Field Token="67109045" Name="Ver" />
+<Field Token="67109046" Name="ShortApplicationTitle" />
+<Field Token="67109047" Name="ApplicationTitle" />
+<Field Token="67109048" Name="DownloadURL" />
+<Field Token="67109049" Name="HelpURL" />
+<Field Token="67109050" Name="ProductWebpageURL" />
+<Field Token="67109051" Name="BuyURL" />
+<Field Token="67109052" Name="VersionURL" />
+<Field Token="67109053" Name="TipText" />
+<Field Token="67109054" Name="GeneratedTemporaryFiles" />
+<Field Token="67109055" Name="TempFolders" />
+<Field Token="67109056" Name="OpenImagesFilter" />
+<Field Token="67109057" Name="OpenFilesFilter" />
+<Field Token="67109058" Name="AcceptableMediaInputPattern" />
+<Field Token="67109059" Name="_TempFolder" />
+<Field Token="67109060" Name="ScheduleMode" />
+<Field Token="67109061" Name="StealthMode" />
+<Field Token="67109062" Name="_ProfilesFile" />
+<Field Token="67109063" Name="_VideoOptionsFile" />
+<Field Token="67109064" Name="AppDataDirectory" />
+<Field Token="67109065" Name="CurrentImagesDirectory" />
+<Field Token="67109066" Name="SelectedLanguage" />
+<Field Token="67109067" Name="args" />
+<Field Token="67109068" Name="IsCommandLine" />
+<Field Token="67109069" Name="IsFromWindowsExplorer" />
+<Field Token="67109070" Name="DoNotOverwriteFiles" />
+<Field Token="67109071" Name="AskBeforeOverwrite" />
+<Field Token="67109072" Name="LeaveSameDateTime" />
+<Field Token="67109073" Name="OutputFilepath" />
+<Field Token="67109074" Name="_Modex64" />
+<Type Token="33554455" Name="Magnifier.NiceLine" />
+<Method Token="100663494" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663495" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663496" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663497" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663498" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663499" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663500" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663501" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663502" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663503" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663504" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663505" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663506" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663507" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663508" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663509" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109075" Name="components" />
+<Field Token="67109076" Name="_Caption" />
+<Field Token="67109077" Name="_CaptionMarginSpace" />
+<Field Token="67109078" Name="_CaptionPadding" />
+<Field Token="67109079" Name="_LineVerticalAlign" />
+<Field Token="67109080" Name="_CaptionOrizontalAlign" />
+<Type Token="33554456" Name="Magnifier.LineVerticalAlign" />
+<Field Token="67109081" Name="value__" />
+<Field Token="67109082" Name="Top" />
+<Field Token="67109083" Name="Middle" />
+<Field Token="67109084" Name="Bottom" />
+<Type Token="33554457" Name="Magnifier.CaptionOrizontalAlign" />
+<Field Token="67109085" Name="value__" />
+<Field Token="67109086" Name="Left" />
+<Field Token="67109087" Name="Center" />
+<Field Token="67109088" Name="Right" />
+<Type Token="33554458" Name="Magnifier.Program" />
+<Method Token="100663510" Name="Main" Variables="args;V_0;" ParamCnt="1" />
+<Type Token="33554459" Name="Magnifier.ResFlags" />
+<Method Token="100663511" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663512" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663513" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663514" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663515" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663516" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663517" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663518" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663519" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663520" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663521" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663522" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663523" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663524" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663525" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663526" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663527" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663528" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663529" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663530" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663531" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663532" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663533" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663534" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663535" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663536" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663537" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663538" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663539" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663540" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663541" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663542" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663543" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663544" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663545" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663546" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663547" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663548" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663549" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663550" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663551" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663552" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663553" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663554" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663555" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663556" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663557" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663558" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663559" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663560" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663561" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109089" Name="resourceMan" />
+<Field Token="67109090" Name="resourceCulture" />
+<Type Token="33554460" Name="Magnifier.ResTranslate" />
+<Method Token="100663562" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663563" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663564" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663565" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109091" Name="resourceMan" />
+<Field Token="67109092" Name="resourceCulture" />
+<Type Token="33554461" Name="Magnifier.TranslateHelper" />
+<Method Token="100663566" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663567" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663568" Name="Translate" Variables="str;V_0;cm;V_2;cm;trnstr;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="1" />
+<Field Token="67109093" Name="rm" />
+<Field Token="67109094" Name="rm2" />
+<Type Token="33554462" Name="Magnifier.ucTextProgressBar" />
+<Method Token="100663569" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663570" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663571" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663572" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663573" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663574" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663575" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109095" Name="lblText" />
+<Field Token="67109096" Name="WmPaint" />
+<Field Token="67109097" Name="components" />
+<Type Token="33554463" Name="Magnifier.UpdateHelper" />
+<Method Token="100663576" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663577" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663578" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663579" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663580" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663581" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663582" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663583" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663584" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663585" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109098" Name="bwCheckVersion" />
+<Type Token="33554464" Name="Magnifier.CheckVersionResult" />
+<Method Token="100663586" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109099" Name="NewVersionReleased" />
+<Field Token="67109100" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109101" Name="OutputMessage" />
+<Type Token="33554465" Name="Magnifier.URLLinkLabel" />
+<Method Token="100663587" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663588" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554466" Name="Magnifier.Win32Stuff" />
+<Method Token="100663589" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663590" Name="GetDesktopWindow" Variables="" ParamCnt="0" />
+<Method Token="100663591" Name="GetDC" Variables="ptr;" ParamCnt="1" />
+<Method Token="100663592" Name="GetSystemMetrics" Variables="abc;" ParamCnt="1" />
+<Method Token="100663593" Name="GetWindowDC" Variables="ptr;" ParamCnt="1" />
+<Method Token="100663594" Name="ReleaseDC" Variables="hWnd;hDc;" ParamCnt="2" />
+<Method Token="100663595" Name="GetCursor" Variables="" ParamCnt="0" />
+<Method Token="100663596" Name="GetCursorInfo" Variables="pci;" ParamCnt="1" />
+<Method Token="100663597" Name="CopyIcon" Variables="hIcon;" ParamCnt="1" />
+<Method Token="100663598" Name="DestroyIcon" Variables="hIcon;" ParamCnt="1" />
+<Method Token="100663599" Name="GetIconInfo" Variables="hIcon;piconinfo;" ParamCnt="2" />
+<Method Token="100663600" Name="DrawIconEx" Variables="hdc;xLeft;yTop;hIcon;cxWidth;cyHeight;istepIfAniCur;hbrFlickerFreeDraw;diFlags;" ParamCnt="9" />
+<Field Token="67109102" Name="SM_CXSCREEN" />
+<Field Token="67109103" Name="SM_CYSCREEN" />
+<Field Token="67109104" Name="CURSOR_SHOWING" />
+<Type Token="33554467" Name="Magnifier.Properties.Resources" />
+<Method Token="100663601" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663602" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663603" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663604" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663605" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663606" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663607" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663608" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663609" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663610" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663611" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663612" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663613" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663614" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663615" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663616" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663617" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663618" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663619" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663620" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663621" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663622" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663623" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663624" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663625" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663626" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663627" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663628" Name="get_document_into" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663629" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663630" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663631" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663633" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663634" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663635" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663636" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663637" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663638" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663639" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663640" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663641" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663642" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663643" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663644" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663645" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663646" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663647" Name="get_magnifier_48" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663648" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663649" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663650" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663651" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663652" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663653" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663654" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663655" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663656" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109105" Name="resourceMan" />
+<Field Token="67109106" Name="resourceCulture" />
+<Type Token="33554468" Name="Magnifier.Properties.Settings" />
+<Method Token="100663657" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663658" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663659" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663660" Name="get_fLeft" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663661" Name="set_fLeft" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663662" Name="get_fTop" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663663" Name="set_fTop" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663664" Name="get_fWidth" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663665" Name="set_fWidth" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663666" Name="get_fHeight" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663667" Name="set_fHeight" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663668" Name="get_HandleSize" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663669" Name="set_HandleSize" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663670" Name="get_f2Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663671" Name="set_f2Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663672" Name="get_f2Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663673" Name="set_f2Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663674" Name="get_f2Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663675" Name="set_f2Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663676" Name="get_f2Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663677" Name="set_f2Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663678" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663679" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663680" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663681" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663682" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663683" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663684" Name="get_FollowMouseCursor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663685" Name="set_FollowMouseCursor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663686" Name="get_DrawMouseCircle" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663687" Name="set_DrawMouseCircle" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663688" Name="get_MouseCircleOpacity" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663689" Name="set_MouseCircleOpacity" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663690" Name="get_MouseCircleRadius" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663691" Name="set_MouseCircleRadius" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663692" Name="get_MouseCircleColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663693" Name="set_MouseCircleColor" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109107" Name="defaultInstance" />
+<Type Token="33554469" Name="&lt;PrivateImplementationDetails&gt;" />
+<Field Token="67109108" Name="BF704719995AD3E24DC47551197B85171FC38E0AB9D09D034B1029A61318F717" />
+<Type Token="33554470" Name="Magnifier.CaptureScreen/SIZE" />
+<Field Token="67109109" Name="cx" />
+<Field Token="67109110" Name="cy" />
+<Type Token="33554471" Name="Magnifier.CaptureScreen/CURSORINFO" />
+<Field Token="67109111" Name="cbSize" />
+<Field Token="67109112" Name="flags" />
+<Field Token="67109113" Name="hCursor" />
+<Field Token="67109114" Name="ptScreenPos" />
+<Type Token="33554472" Name="Magnifier.CaptureScreen/POINTAPI" />
+<Field Token="67109115" Name="x" />
+<Field Token="67109116" Name="y" />
+<Type Token="33554473" Name="Magnifier.InterceptKeys/KBDLLHOOKSTRUCT" />
+<Field Token="67109117" Name="key" />
+<Field Token="67109118" Name="scanCode" />
+<Field Token="67109119" Name="flags" />
+<Field Token="67109120" Name="time" />
+<Field Token="67109121" Name="extra" />
+<Type Token="33554474" Name="Magnifier.InterceptKeys/LowLevelKeyboardProc" />
+<Method Token="100663694" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663695" Name="Invoke" Variables="this;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663696" Name="BeginInvoke" Variables="this;nCode;wParam;lParam;callback;object;" ParamCnt="6" />
+<Method Token="100663697" Name="EndInvoke" Variables="this;lParam;result;" ParamCnt="3" />
+<Type Token="33554475" Name="Magnifier.InterceptMouse/LowLevelMouseProc" />
+<Method Token="100663698" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663699" Name="Invoke" Variables="this;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663700" Name="BeginInvoke" Variables="this;nCode;wParam;lParam;callback;object;" ParamCnt="6" />
+<Method Token="100663701" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554476" Name="Magnifier.InterceptMouse/MouseMessages" />
+<Field Token="67109122" Name="value__" />
+<Field Token="67109123" Name="WM_LBUTTONDOWN" />
+<Field Token="67109124" Name="WM_LBUTTONUP" />
+<Field Token="67109125" Name="WM_MOUSEMOVE" />
+<Field Token="67109126" Name="WM_MOUSEWHEEL" />
+<Field Token="67109127" Name="WM_MOUSEHWHEEL" />
+<Field Token="67109128" Name="WM_RBUTTONDOWN" />
+<Field Token="67109129" Name="WM_RBUTTONUP" />
+<Field Token="67109130" Name="WM_MBUTTONDOWN" />
+<Field Token="67109131" Name="WM_MBUTTONUP" />
+<Field Token="67109132" Name="WM_MBUTTONDBLCLK" />
+<Field Token="67109133" Name="WM_XBUTTONDOWN" />
+<Field Token="67109134" Name="WM_XBUTTONUP" />
+<Field Token="67109135" Name="XBUTTON1" />
+<Field Token="67109136" Name="XBUTTON2" />
+<Field Token="67109137" Name="WM_LBUTTONDBLCLK" />
+<Field Token="67109138" Name="WM_RBUTTONDBLCLK" />
+<Field Token="67109139" Name="WM_XBUTTONDBLCLK" />
+<Type Token="33554477" Name="Magnifier.InterceptMouse/POINT" />
+<Field Token="67109140" Name="x" />
+<Field Token="67109141" Name="y" />
+<Type Token="33554478" Name="Magnifier.InterceptMouse/MSLLHOOKSTRUCT" />
+<Field Token="67109142" Name="pt" />
+<Field Token="67109143" Name="mouseData" />
+<Field Token="67109144" Name="flags" />
+<Field Token="67109145" Name="time" />
+<Field Token="67109146" Name="dwExtraInfo" />
+<Type Token="33554479" Name="Magnifier.Win32Stuff/ICONINFO" />
+<Field Token="67109147" Name="fIcon" />
+<Field Token="67109148" Name="xHotspot" />
+<Field Token="67109149" Name="yHotspot" />
+<Field Token="67109150" Name="hbmMask" />
+<Field Token="67109151" Name="hbmColor" />
+<Type Token="33554480" Name="Magnifier.Win32Stuff/POINT" />
+<Field Token="67109152" Name="x" />
+<Field Token="67109153" Name="y" />
+<Type Token="33554481" Name="Magnifier.Win32Stuff/CURSORINFO" />
+<Field Token="67109154" Name="cbSize" />
+<Field Token="67109155" Name="flags" />
+<Field Token="67109156" Name="hCursor" />
+<Field Token="67109157" Name="ptScreenPos" />
+<Type Token="33554482" Name="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=16" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663310" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
